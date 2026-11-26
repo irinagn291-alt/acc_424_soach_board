@@ -1,0 +1,60 @@
+{
+  "devicesAndConfigurations" : [
+    {
+      "device" : {
+        "architecture" : "arm64",
+        "deviceId" : "9C67281E-595E-4A54-8D3C-3F28ABD0AC96",
+        "deviceName" : "GF isolated manual-qa 425d87e009c94166897e8a245655d28a iPad Pro 13-inch (M5)",
+        "modelName" : "iPad Pro 13-inch (M5)",
+        "osBuildNumber" : "24B8117",
+        "osVersion" : "27.2",
+        "platform" : "iOS Simulator"
+      },
+      "expectedFailures" : 0,
+      "failedTests" : 2,
+      "passedTests" : 6,
+      "skippedTests" : 0,
+      "testPlanConfiguration" : {
+        "configurationId" : "1",
+        "configurationName" : "Test Scheme Action"
+      }
+    }
+  ],
+  "environmentDescription" : "ChalkOrbit · Built with macOS 27.2.1",
+  "expectedFailures" : 0,
+  "failedTests" : 2,
+  "finishTime" : 1794753162.781,
+  "passedTests" : 6,
+  "result" : "Failed",
+  "runtimeWarnings" : [
+
+  ],
+  "skippedTests" : 0,
+  "startTime" : 1794752964.776,
+  "statistics" : [
+
+  ],
+  "testFailures" : [
+    {
+      "failureText" : "XCTAssertTrue failed",
+      "targetName" : "BoardJourney",
+      "testIdentifier" : 1,
+      "testIdentifierString" : "ZbJourney/test01EditAndPersist()",
+      "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test01EditAndPersist",
+      "testName" : "test01EditAndPersist()"
+    },
+    {
+      "failureText" : "Failed to tap \"Basketball\" Button: Find single matching element. Multiple matching elements found for <XCUIElementQuery: 0x10821c870>.\nSparse tree of matches:\n→Application, pid: 70775, label: 'Coach Board'\n  ↳Window (Main)\n    ↳Other\n    ⋅ ↳Other\n    ⋅   ↳Other\n    ⋅     ↳Other\n    ⋅       ↳Other\n    ⋅         ↳CollectionView\n    ⋅           ↳Cell\n    ⋅             ↳Button, label: 'Basketball'\n    ↳Other\n      ↳Other\n        ↳Other\n          ↳Other\n            ↳Other\n              ↳Other\n                ↳Other\n                  ↳Other\n                    ↳Other\n                      ↳Other\n                        ↳Other\n                          ↳Other\n                            ↳Other\n                              ↳Other\n                                ↳Other\n                                  ↳ScrollView\n                                    ↳Other\n                                      ↳Button, identifier: 'sportMenu', label: 'Basketball'\nPossibly caused by runtime issues:\nAutomation type mismatch: computed Button from legacy attributes vs Cell from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 75;\n    \"XC_kAXXCAttributeElementBaseType\" = \"_UIFloatingTabBarItemCell\";\n    \"XC_kAXXCAttributeElementType\" = \"_UIFloatingTabBarItemCell\";\n    \"XC_kAXXCAttributeTraits\" = 146297323528;\n}\nAutomation type mismatch: computed Button from legacy attributes vs Other from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 0;\n    \"XC_kAXXCAttributeElementBaseType\" = \"_UIFloatingTabBarItemView\";\n    \"XC_kAXXCAttributeElementType\" = \"_UIFloatingTabBarItemView\";\n    \"XC_kAXXCAttributeTraits\" = 8858370056;\n}\nAutomation type mismatch: computed Button from legacy attributes vs Cell from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 75;\n    \"XC_kAXXCAttributeElementBaseType\" = \"_UIFloatingTabBarItemCell\";\n    \"XC_kAXXCAttributeElementType\" = \"_UIFloatingTabBarItemCell\";\n    \"XC_kAXXCAttributeTraits\" = 146297323520;\n}\nAutomation type mismatch: computed Button from legacy attributes vs Other from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 0;\n    \"XC_kAXXCAttributeElementBaseType\" = \"_UIFloatingTabBarItemView\";\n    \"XC_kAXXCAttributeElementType\" = \"_UIFloatingTabBarItemView\";\n    \"XC_kAXXCAttributeTraits\" = 8858370048;\n}\nAutomation type mismatch: computed Button from legacy attributes vs PopUpButton from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 14;\n    \"XC_kAXXCAttributeElementBaseType\" = NSObject;\n    \"XC_kAXXCAttributeElementType\" = \"SwiftUI.AccessibilityNode\";\n    \"XC_kAXXCAttributeTraits\" = 1108101562369;\n}\nAutomation type mismatch: computed Button from legacy attributes vs DisclosureTriangle from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 13;\n    \"XC_kAXXCAttributeElementBaseType\" = NSObject;\n    \"XC_kAXXCAttributeElementType\" = \"SwiftUI.AccessibilityNode\";\n    \"XC_kAXXCAttributeTraits\" = 8589934593;\n}\nSee test report attachments for more detail.",
+      "targetName" : "BoardJourney",
+      "testIdentifier" : 3,
+      "testIdentifierString" : "ZbJourney/test03SportsLibraryAndOffline()",
+      "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test03SportsLibraryAndOffline",
+      "testName" : "test03SportsLibraryAndOffline()"
+    }
+  ],
+  "title" : "Test - ChalkOrbit",
+  "topInsights" : [
+
+  ],
+  "totalTestCount" : 8
+}

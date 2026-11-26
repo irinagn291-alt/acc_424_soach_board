@@ -1,0 +1,21 @@
+{
+  "swift_files_including_ui_tests": 6,
+  "fresh_project_object_ids": 66,
+  "other_project_uuid_collisions": [],
+  "project_files_inspected": 85,
+  "source_machine_paths": false,
+  "fully_localized_keys": 178,
+  "languages": [
+    "de",
+    "el",
+    "en",
+    "es",
+    "it",
+    "pt-BR"
+  ],
+  "literal_and_conditional_localization_keys_verified": 172,
+  "capabilities_and_extension": true,
+  "widget_families": 6,
+  "release_archive_machine_paths": false,
+  "passed": true
+}

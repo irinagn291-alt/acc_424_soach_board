@@ -1,0 +1,178 @@
+2 sec / frame|2 Sek. / Bild|2 s / fotograma|2 s / fotogramma|2 s / quadro|2 δευτ. / καρέ
+A shared playbook. A clear plan.|Gemeinsame Taktik. Klarer Plan.|Tácticas compartidas. Un plan claro.|Tattiche condivise. Un piano chiaro.|Táticas em equipe. Um plano claro.|Κοινές τακτικές. Ξεκάθαρο πλάνο.
+A tactic can contain up to 24 frames.|Eine Taktik kann bis zu 24 Bilder enthalten.|Una táctica admite hasta 24 fotogramas.|Una tattica può contenere fino a 24 fotogrammi.|Uma tática pode ter até 24 quadros.|Μια τακτική μπορεί να έχει έως 24 καρέ.
+Add Soach Board widgets to your Home Screen or Lock Screen. They use the last saved local board and training plan, with no network requests.|Füge Soach Board-Widgets zum Home- oder Sperrbildschirm hinzu. Sie zeigen die zuletzt lokal gespeicherte Tafel und den Trainingsplan ohne Netzabfragen.|Añade widgets de Soach Board a la pantalla de inicio o de bloqueo. Muestran la última pizarra y el plan guardados en el dispositivo, sin acceder a la red.|Aggiungi i widget di Soach Board alla schermata Home o di blocco. Usano la lavagna e il piano salvati sul dispositivo, senza richieste di rete.|Adicione widgets do Soach Board à Tela de Início ou Bloqueada. Eles usam o quadro e o plano salvos no aparelho, sem acesso à rede.|Προσθέστε widget του Soach Board στην οθόνη αφετηρίας ή κλειδώματος. Χρησιμοποιούν τον τοπικά αποθηκευμένο πίνακα και το πρόγραμμα, χωρίς δίκτυο.
+Add a session, attach tactics and repeat it across your season.|Erstelle ein Training, verknüpfe Taktiken und wiederhole es über die Saison.|Añade una sesión, adjunta tácticas y repítela durante la temporada.|Aggiungi una sessione, associa le tattiche e ripetila durante la stagione.|Adicione um treino, inclua táticas e repita ao longo da temporada.|Προσθέστε προπόνηση, συνδέστε τακτικές και επαναλάβετε στη σεζόν.
+Add frame|Bild hinzufügen|Añadir fotograma|Aggiungi fotogramma|Adicionar quadro|Προσθήκη καρέ
+All seasons|Alle Saisons|Todas las temporadas|Tutte le stagioni|Todas as temporadas|Όλες οι σεζόν
+All sports|Alle Sportarten|Todos los deportes|Tutti gli sport|Todos os esportes|Όλα τα αθλήματα
+Ball|Ball|Balón|Palla|Bola|Μπάλα
+Basketball|Basketball|Baloncesto|Pallacanestro|Basquete|Μπάσκετ
+Board|Tafel|Pizarra|Lavagna|Quadro|Πίνακας
+Build from the back|Spielaufbau von hinten|Salida desde atrás|Costruzione dal basso|Saída de bola|Ανάπτυξη από πίσω
+Built-in exercise|Integrierte Übung|Ejercicio incluido|Esercizio incluso|Exercício incluído|Ενσωματωμένη άσκηση
+Built-in exercises are starting points. Adapt the movements and intensity to your players.|Die integrierten Übungen sind Ausgangspunkte. Passe Bewegungen und Intensität an dein Team an.|Los ejercicios incluidos son puntos de partida. Adapta los movimientos y la intensidad a tus jugadores.|Gli esercizi inclusi sono punti di partenza. Adatta movimenti e intensità ai tuoi giocatori.|Os exercícios incluídos são pontos de partida. Adapte os movimentos e a intensidade aos seus jogadores.|Οι ενσωματωμένες ασκήσεις είναι αφετηρίες. Προσαρμόστε κινήσεις και ένταση στους παίκτες σας.
+Cancel|Abbrechen|Cancelar|Annulla|Cancelar|Ακύρωση
+Clear frame|Bild leeren|Vaciar fotograma|Svuota fotogramma|Limpar quadro|Καθαρισμός καρέ
+Clear this frame?|Dieses Bild leeren?|¿Vaciar este fotograma?|Svuotare questo fotogramma?|Limpar este quadro?|Να καθαριστεί αυτό το καρέ;
+Close the passing lane together. Recover into shape when the ball moves.|Schließt gemeinsam den Passweg. Rückt nach der Ballbewegung wieder in die Grundordnung.|Cerrad juntos la línea de pase. Recuperad la posición cuando se mueva el balón.|Chiudete insieme la linea di passaggio. Ritrovate la posizione quando si muove la palla.|Fechem juntos a linha de passe. Retomem a formação quando a bola se mover.|Κλείστε μαζί τη γραμμή πάσας. Επιστρέψτε στη διάταξη όταν κινηθεί η μπάλα.
+Cloud sharing is unavailable. Check your iCloud account and try again.|Teilen über iCloud ist nicht verfügbar. Prüfe dein iCloud-Konto und versuche es erneut.|No se puede compartir por iCloud. Revisa tu cuenta e inténtalo de nuevo.|Condivisione iCloud non disponibile. Controlla il tuo account e riprova.|O compartilhamento pelo iCloud está indisponível. Confira sua conta e tente novamente.|Η κοινή χρήση iCloud δεν είναι διαθέσιμη. Ελέγξτε τον λογαριασμό σας και δοκιμάστε ξανά.
+Soach Board|Soach Board|Soach Board|Soach Board|Soach Board|Soach Board
+Coaching notes|Trainingshinweise|Notas técnicas|Note tecniche|Notas técnicas|Προπονητικές σημειώσεις
+Coaching sequence|Trainingssequenz|Secuencia táctica|Sequenza tattica|Sequência tática|Τακτική ακολουθία
+Complete training|Training abschließen|Completar entrenamiento|Completa allenamento|Concluir treino|Ολοκλήρωση προπόνησης
+Cone|Hütchen|Cono|Cono|Cone|Κώνος
+Copy|Kopie|Copia|Copia|Cópia|Αντίγραφο
+Could not export this tactic.|Diese Taktik konnte nicht exportiert werden.|No se pudo exportar esta táctica.|Impossibile esportare questa tattica.|Não foi possível exportar esta tática.|Δεν ήταν δυνατή η εξαγωγή της τακτικής.
+Could not save. Keep the app open and free some device storage.|Speichern fehlgeschlagen. Lass die App geöffnet und gib Speicherplatz frei.|No se pudo guardar. Mantén la app abierta y libera espacio en el dispositivo.|Salvataggio non riuscito. Tieni aperta l'app e libera spazio sul dispositivo.|Não foi possível salvar. Mantenha o app aberto e libere espaço no aparelho.|Η αποθήκευση απέτυχε. Κρατήστε την εφαρμογή ανοιχτή και ελευθερώστε χώρο.
+Create a tactic or choose a built-in exercise below.|Erstelle eine Taktik oder wähle unten eine integrierte Übung.|Crea una táctica o elige un ejercicio incluido.|Crea una tattica o scegli un esercizio incluso.|Crie uma tática ou escolha um exercício incluído.|Δημιουργήστε τακτική ή επιλέξτε ενσωματωμένη άσκηση.
+Create a weekly plan with the same tactics. Each session can be edited separately.|Erstelle einen Wochenplan mit denselben Taktiken. Jedes Training lässt sich einzeln bearbeiten.|Crea un plan semanal con las mismas tácticas. Puedes editar cada sesión por separado.|Crea un piano settimanale con le stesse tattiche. Ogni sessione è modificabile separatamente.|Crie um plano semanal com as mesmas táticas. Cada treino pode ser editado separadamente.|Δημιουργήστε εβδομαδιαίο πλάνο με τις ίδιες τακτικές. Κάθε προπόνηση αλλάζει ξεχωριστά.
+Date & time|Datum & Uhrzeit|Fecha y hora|Data e ora|Data e hora|Ημερομηνία και ώρα
+Delete|Löschen|Eliminar|Elimina|Excluir|Διαγραφή
+Delete frame|Bild löschen|Eliminar fotograma|Elimina fotogramma|Excluir quadro|Διαγραφή καρέ
+Delete tactic|Taktik löschen|Eliminar táctica|Elimina tattica|Excluir tática|Διαγραφή τακτικής
+Delete this tactic?|Diese Taktik löschen?|¿Eliminar esta táctica?|Eliminare questa tattica?|Excluir esta tática?|Να διαγραφεί αυτή η τακτική;
+Done|Fertig|Listo|Fine|Concluído|Τέλος
+Drag a marker to move it.|Ziehe eine Figur, um sie zu bewegen.|Arrastra una figura para moverla.|Trascina una pedina per spostarla.|Arraste uma peça para movê-la.|Σύρετε μια φιγούρα για να τη μετακινήσετε.
+Drag on the field to draw.|Ziehe auf dem Feld, um zu zeichnen.|Arrastra sobre el campo para dibujar.|Trascina sul campo per disegnare.|Arraste no campo para desenhar.|Σύρετε στο γήπεδο για σχεδίαση.
+Draw the press, then find the free player. Keep the supporting angles open.|Locke das Pressing an und finde den freien Spieler. Halte die Anspielwinkel offen.|Atrae la presión y encuentra al jugador libre. Mantén abiertos los ángulos de apoyo.|Attira la pressione e trova il giocatore libero. Mantieni aperti gli angoli di sostegno.|Atraia a pressão e encontre o jogador livre. Mantenha os ângulos de apoio abertos.|Τραβήξτε την πίεση και βρείτε τον ελεύθερο παίκτη. Κρατήστε ανοιχτές τις γωνίες στήριξης.
+Duplicate|Duplizieren|Duplicar|Duplica|Duplicar|Δημιουργία αντιγράφου
+Duplicate to edit|Zum Bearbeiten duplizieren|Duplicar para editar|Duplica per modificare|Duplicar para editar|Αντίγραφο για επεξεργασία
+Duration|Dauer|Duración|Durata|Duração|Διάρκεια
+Edit training|Training bearbeiten|Editar entrenamiento|Modifica allenamento|Editar treino|Επεξεργασία προπόνησης
+Enable training reminders|Trainingserinnerungen aktivieren|Activar recordatorios|Attiva promemoria allenamenti|Ativar lembretes de treino|Ενεργοποίηση υπενθυμίσεων
+Erase|Radieren|Borrar|Gomma|Apagar|Σβήσιμο
+Every change on the board is saved automatically on this device.|Jede Änderung wird automatisch auf diesem Gerät gespeichert.|Cada cambio se guarda automáticamente en este dispositivo.|Ogni modifica viene salvata automaticamente su questo dispositivo.|Cada alteração é salva automaticamente neste aparelho.|Κάθε αλλαγή αποθηκεύεται αυτόματα στη συσκευή.
+Exercise starters|Übungsvorlagen|Ejercicios iniciales|Esercizi di partenza|Exercícios iniciais|Αρχικές ασκήσεις
+Export PDF|PDF exportieren|Exportar PDF|Esporta PDF|Exportar PDF|Εξαγωγή PDF
+Export tactic file|Taktikdatei exportieren|Exportar archivo táctico|Esporta file tattica|Exportar arquivo de tática|Εξαγωγή αρχείου τακτικής
+FRAME|BILD|FOTOGRAMA|FOTOGRAMMA|QUADRO|ΚΑΡΕ
+Find a tactic|Taktik suchen|Buscar una táctica|Cerca una tattica|Buscar uma tática|Αναζήτηση τακτικής
+Football|Fußball|Fútbol|Calcio|Futebol|Ποδόσφαιρο
+For help, use the support details for this app on its App Store page. You can report an app problem through Apple Support.|Hilfe findest du über die Supportangaben auf der App Store-Seite. Probleme kannst du dem Apple Support melden.|Para obtener ayuda, consulta los datos de soporte en la página de la app en App Store. Puedes informar de problemas a Soporte de Apple.|Per assistenza consulta i recapiti nella pagina App Store. Puoi segnalare problemi tramite il supporto Apple.|Para obter ajuda, consulte o suporte na página do app na App Store. Você pode relatar problemas ao Suporte da Apple.|Για βοήθεια δείτε τα στοιχεία υποστήριξης στη σελίδα App Store. Αναφέρετε προβλήματα στην Υποστήριξη Apple.
+Frame|Bild|Fotograma|Fotogramma|Quadro|Καρέ
+Free. Offline. Built for the touchline.|Kostenlos. Offline. Für den Spielfeldrand.|Gratis. Sin conexión. Para el banquillo.|Gratis. Offline. Per la panchina.|Grátis. Offline. Para a beira do campo.|Δωρεάν. Εκτός σύνδεσης. Για τον πάγκο.
+Full screen|Vollbild|Pantalla completa|Schermo intero|Tela cheia|Πλήρης οθόνη
+Futsal|Futsal|Fútbol sala|Calcio a 5|Futsal|Σάλας
+Give and go|Doppelpass|Pared|Dai e vai|Tabela|Πάσα και κίνηση
+Import tactic file|Taktikdatei importieren|Importar archivo táctico|Importa file tattica|Importar arquivo de tática|Εισαγωγή αρχείου τακτικής
+Invite specific teammates to a read-only tactic. They can duplicate it to create their own version. No public feed or app account is used.|Lade einzelne Teammitglieder zu einer schreibgeschützten Taktik ein. Sie können eine eigene Kopie erstellen. Es gibt keinen öffentlichen Feed und kein App-Konto.|Invita a compañeros concretos a ver una táctica. Pueden duplicarla para crear su versión. No hay muro público ni cuenta de la app.|Invita compagni specifici a una tattica in sola lettura. Possono duplicarla per creare la propria versione. Nessun feed pubblico o account dell'app.|Convide colegas específicos para ver uma tática. Eles podem duplicá-la para criar sua versão. Não há feed público nem conta do app.|Προσκαλέστε συγκεκριμένους συμπαίκτες σε τακτική μόνο για ανάγνωση. Μπορούν να την αντιγράψουν. Δεν υπάρχει δημόσια ροή ή λογαριασμός εφαρμογής.
+It will also be removed from local training plans. iCloud invitations are managed in Team & settings.|Sie wird auch aus lokalen Trainingsplänen entfernt. iCloud-Einladungen verwaltest du unter Team & Einstellungen.|También se eliminará de los planes locales. Gestiona las invitaciones de iCloud en Equipo y ajustes.|Verrà rimossa anche dai piani locali. Gestisci gli inviti iCloud in Squadra e impostazioni.|Ela também será removida dos planos locais. Gerencie convites do iCloud em Equipe e ajustes.|Θα αφαιρεθεί και από τα τοπικά πλάνα. Διαχειριστείτε προσκλήσεις iCloud στο Ομάδα και ρυθμίσεις.
+Latest tactic|Letzte Taktik|Última táctica|Ultima tattica|Última tática|Τελευταία τακτική
+Library|Bibliothek|Biblioteca|Libreria|Biblioteca|Βιβλιοθήκη
+Local tactics and training plans remain on this device.|Lokale Taktiken und Trainingspläne bleiben auf diesem Gerät.|Las tácticas y los planes locales permanecen en el dispositivo.|Tattiche e piani locali restano su questo dispositivo.|As táticas e os planos locais permanecem neste aparelho.|Οι τοπικές τακτικές και τα πλάνα παραμένουν στη συσκευή.
+Make every session count.|Mach jedes Training wertvoll.|Aprovecha cada sesión.|Dai valore a ogni sessione.|Faça cada treino valer.|Δώστε αξία σε κάθε προπόνηση.
+Mark incomplete|Als offen markieren|Marcar pendiente|Segna da completare|Marcar como pendente|Σήμανση ως εκκρεμής
+Markers|Figuren|Figuras|Pedine|Peças|Φιγούρες
+Move|Bewegen|Mover|Sposta|Mover|Μετακίνηση
+Move down|Nach unten|Bajar|Sposta giù|Mover para baixo|Μετακίνηση κάτω
+Move left|Nach links|Mover a la izquierda|Sposta a sinistra|Mover à esquerda|Μετακίνηση αριστερά
+Move right|Nach rechts|Mover a la derecha|Sposta a destra|Mover à direita|Μετακίνηση δεξιά
+Move the ball wide. Create a spare player near the touchline.|Spiele den Ball nach außen. Schaffe Überzahl an der Seitenlinie.|Lleva el balón a la banda. Crea superioridad cerca de la línea lateral.|Porta la palla in ampiezza. Crea superiorità vicino alla linea laterale.|Leve a bola para a lateral. Crie superioridade perto da linha.|Μεταφέρετε την μπάλα στα άκρα. Δημιουργήστε υπεραριθμία κοντά στη γραμμή.
+Move up|Nach oben|Subir|Sposta su|Mover para cima|Μετακίνηση πάνω
+New tactic|Neue Taktik|Nueva táctica|Nuova tattica|Nova tática|Νέα τακτική
+Next training|Nächstes Training|Próximo entrenamiento|Prossimo allenamento|Próximo treino|Επόμενη προπόνηση
+No camera, microphone, location, health or calendar access is needed.|Kein Zugriff auf Kamera, Mikrofon, Standort, Gesundheitsdaten oder Kalender erforderlich.|No se necesita acceso a cámara, micrófono, ubicación, salud ni calendario.|Non serve accesso a fotocamera, microfono, posizione, salute o calendario.|Não é necessário acessar câmera, microfone, localização, saúde ou calendário.|Δεν απαιτείται πρόσβαση σε κάμερα, μικρόφωνο, τοποθεσία, υγεία ή ημερολόγιο.
+No connection. Your local tactics are safe. Try syncing later.|Keine Verbindung. Deine lokalen Taktiken sind sicher. Synchronisiere später.|Sin conexión. Tus tácticas locales están a salvo. Sincroniza más tarde.|Nessuna connessione. Le tattiche locali sono al sicuro. Sincronizza più tardi.|Sem conexão. Suas táticas locais estão seguras. Sincronize mais tarde.|Χωρίς σύνδεση. Οι τοπικές τακτικές είναι ασφαλείς. Συγχρονίστε αργότερα.
+No matching tactics|Keine passenden Taktiken|No hay tácticas coincidentes|Nessuna tattica corrispondente|Nenhuma tática encontrada|Δεν βρέθηκαν τακτικές
+No training tomorrow|Morgen kein Training|Mañana no hay entrenamiento|Nessun allenamento domani|Sem treino amanhã|Χωρίς προπόνηση αύριο
+No upcoming training|Kein geplantes Training|Sin próximos entrenamientos|Nessun allenamento in programma|Nenhum treino agendado|Δεν υπάρχει επόμενη προπόνηση
+Notifications|Mitteilungen|Notificaciones|Notifiche|Notificações|Γνωστοποιήσεις
+Notifications are off. You can still use your training plan. Enable alerts in Settings.|Mitteilungen sind aus. Dein Trainingsplan bleibt nutzbar. Aktiviere Hinweise in den Einstellungen.|Las notificaciones están desactivadas. Puedes usar tu plan. Actívalas en Ajustes.|Le notifiche sono disattivate. Puoi usare il piano. Attiva gli avvisi in Impostazioni.|As notificações estão desativadas. Seu plano continua disponível. Ative os alertas nos Ajustes.|Οι γνωστοποιήσεις είναι κλειστές. Το πλάνο λειτουργεί. Ενεργοποιήστε ειδοποιήσεις στις Ρυθμίσεις.
+Notifications are unavailable. Your training plan is saved.|Mitteilungen sind nicht verfügbar. Dein Trainingsplan ist gespeichert.|Las notificaciones no están disponibles. El plan está guardado.|Notifiche non disponibili. Il piano è salvato.|As notificações estão indisponíveis. Seu plano está salvo.|Οι γνωστοποιήσεις δεν είναι διαθέσιμες. Το πλάνο αποθηκεύτηκε.
+Number|Nummer|Número|Numero|Número|Αριθμός
+OK|OK|Aceptar|OK|OK|Εντάξει
+Open Soach Board|Soach Board öffnen|Abrir Soach Board|Apri Soach Board|Abrir Soach Board|Άνοιγμα Soach Board
+Open system settings|Systemeinstellungen öffnen|Abrir ajustes del sistema|Apri impostazioni di sistema|Abrir ajustes do sistema|Άνοιγμα ρυθμίσεων συστήματος
+Open your library to review the new tactics.|Öffne die Bibliothek, um neue Taktiken anzusehen.|Abre la biblioteca para revisar las nuevas tácticas.|Apri la libreria per vedere le nuove tattiche.|Abra a biblioteca para ver as novas táticas.|Ανοίξτε τη βιβλιοθήκη για τις νέες τακτικές.
+Open your training plan|Trainingsplan öffnen|Abrir plan de entrenamiento|Apri piano allenamenti|Abrir plano de treinos|Άνοιγμα πλάνου προπόνησης
+Opponent|Gegner|Rival|Avversario|Adversário|Αντίπαλος
+PLAY SEQUENCE|SPIELSEQUENZ|SECUENCIA|SEQUENZA|SEQUÊNCIA|ΑΚΟΛΟΥΘΙΑ
+Pass|Pass|Pase|Passaggio|Passe|Πάσα
+Pass to a teammate, cut into space, then receive the return pass.|Spiele einen Mitspieler an, starte in den freien Raum und erhalte den Rückpass.|Pasa a un compañero, desmárcate y recibe la devolución.|Passa a un compagno, taglia nello spazio e ricevi il passaggio di ritorno.|Passe a um colega, avance ao espaço livre e receba a devolução.|Πασάρετε σε συμπαίκτη, κινηθείτε στον χώρο και δεχτείτε την επιστροφή.
+Pass, follow and rotate. Keep one passing option on each side.|Passen, nachlaufen und rotieren. Halte auf jeder Seite eine Anspielstation.|Pasa, sigue y rota. Mantén una opción de pase a cada lado.|Passa, segui e ruota. Mantieni un'opzione di passaggio per lato.|Passe, acompanhe e gire. Mantenha uma opção de passe de cada lado.|Πάσα, ακολούθηση και περιστροφή. Κρατήστε επιλογή πάσας σε κάθε πλευρά.
+Pause|Pause|Pausar|Pausa|Pausar|Παύση
+Plan a week. Build a season.|Plane die Woche. Gestalte die Saison.|Planifica la semana. Construye la temporada.|Pianifica la settimana. Costruisci la stagione.|Planeje a semana. Construa a temporada.|Σχεδιάστε εβδομάδα. Χτίστε σεζόν.
+Plan training|Training planen|Planificar entrenamiento|Pianifica allenamento|Planejar treino|Προγραμματισμός προπόνησης
+Player|Spieler|Jugador|Giocatore|Jogador|Παίκτης
+Press and recover|Pressen und ordnen|Presionar y recuperar|Pressa e recupera|Pressionar e recompor|Πίεση και επιστροφή
+Privacy|Datenschutz|Privacidad|Privacy|Privacidade|Απόρρητο
+Receive a reminder one day before training, or one hour before a session planned at short notice. Team updates are announced after you sync.|Erhalte eine Erinnerung einen Tag vor dem Training oder eine Stunde bei kurzfristiger Planung. Team-Neuigkeiten erscheinen nach der Synchronisierung.|Recibe un aviso un día antes del entrenamiento, o una hora antes si lo planificas a última hora. Los cambios del equipo se avisan al sincronizar.|Ricevi un promemoria un giorno prima o un'ora prima per sessioni pianificate all'ultimo. Gli aggiornamenti di squadra vengono segnalati dopo la sincronizzazione.|Receba um lembrete um dia antes do treino, ou uma hora antes quando planejado em cima da hora. Atualizações da equipe são avisadas após sincronizar.|Λάβετε υπενθύμιση μία μέρα πριν, ή μία ώρα πριν για προπόνηση τελευταίας στιγμής. Οι ενημερώσεις ομάδας εμφανίζονται μετά τον συγχρονισμό.
+Redo|Wiederholen|Rehacer|Ripristina|Refazer|Επανάληψη
+Remove all your iCloud tactics and revoke their invitations?|Alle deine iCloud-Taktiken entfernen und Einladungen widerrufen?|¿Eliminar todas tus tácticas de iCloud y revocar las invitaciones?|Rimuovere tutte le tattiche iCloud e revocare gli inviti?|Remover todas as suas táticas do iCloud e revogar os convites?|Να αφαιρεθούν όλες οι τακτικές iCloud και να ανακληθούν οι προσκλήσεις;
+Remove iCloud copies|iCloud-Kopien entfernen|Eliminar copias de iCloud|Rimuovi copie iCloud|Remover cópias do iCloud|Αφαίρεση αντιγράφων iCloud
+Remove my iCloud tactics|Meine iCloud-Taktiken entfernen|Eliminar mis tácticas de iCloud|Rimuovi le mie tattiche iCloud|Remover minhas táticas do iCloud|Αφαίρεση τακτικών μου από iCloud
+Rotation triangle|Rotationsdreieck|Triángulo de rotación|Triangolo di rotazione|Triângulo de rotação|Τρίγωνο περιστροφής
+Run|Laufweg|Carrera|Corsa|Corrida|Τρέξιμο
+Save|Speichern|Guardar|Salva|Salvar|Αποθήκευση
+Save a tactic to see it here.|Speichere eine Taktik, um sie hier zu sehen.|Guarda una táctica para verla aquí.|Salva una tattica per vederla qui.|Salve uma tática para vê-la aqui.|Αποθηκεύστε τακτική για να εμφανιστεί εδώ.
+Saved on device|Auf Gerät gespeichert|Guardado en el dispositivo|Salvato sul dispositivo|Salvo no aparelho|Αποθηκεύτηκε στη συσκευή
+Saved tactics|Gespeicherte Taktiken|Tácticas guardadas|Tattiche salvate|Táticas salvas|Αποθηκευμένες τακτικές
+Saved to iCloud. Invite specific teammates using the sharing sheet.|In iCloud gespeichert. Lade Teammitglieder über den Teilen-Dialog ein.|Guardado en iCloud. Invita a compañeros mediante la hoja de compartir.|Salvato su iCloud. Invita compagni tramite il pannello di condivisione.|Salvo no iCloud. Convide colegas pela tela de compartilhamento.|Αποθηκεύτηκε στο iCloud. Προσκαλέστε συμπαίκτες από την οθόνη κοινής χρήσης.
+Screen and cut|Block und Schnitt|Bloqueo y corte|Blocco e taglio|Bloqueio e corte|Σκριν και κόψιμο
+Season|Saison|Temporada|Stagione|Temporada|Σεζόν
+Season name|Saisonname|Nombre de temporada|Nome stagione|Nome da temporada|Όνομα σεζόν
+Select marker|Figur auswählen|Seleccionar figura|Seleziona pedina|Selecionar peça|Επιλογή φιγούρας
+Selected marker|Ausgewählte Figur|Figura seleccionada|Pedina selezionata|Peça selecionada|Επιλεγμένη φιγούρα
+Session|Trainingseinheit|Sesión|Sessione|Treino|Προπόνηση
+Session notes|Trainingsnotizen|Notas de la sesión|Note della sessione|Notas do treino|Σημειώσεις προπόνησης
+Session order|Trainingsreihenfolge|Orden de la sesión|Ordine della sessione|Ordem do treino|Σειρά προπόνησης
+Set a screen, change direction and cut toward the basket.|Stelle einen Block, ändere die Richtung und ziehe zum Korb.|Haz un bloqueo, cambia de dirección y corta hacia la canasta.|Porta un blocco, cambia direzione e taglia verso il canestro.|Faça um bloqueio, mude de direção e corte para a cesta.|Κάντε σκριν, αλλάξτε κατεύθυνση και κόψτε προς το καλάθι.
+Shape the next move.|Gestalte den nächsten Spielzug.|Diseña la próxima jugada.|Disegna la prossima azione.|Desenhe a próxima jogada.|Σχεδιάστε την επόμενη κίνηση.
+Share current tactic with team|Aktuelle Taktik mit Team teilen|Compartir táctica con el equipo|Condividi tattica con la squadra|Compartilhar tática com a equipe|Κοινή χρήση τακτικής με ομάδα
+Sharing needs iCloud and a connection. Updates appear when the app syncs. Private invitations can be revoked in the sharing sheet.|Teilen erfordert iCloud und eine Verbindung. Änderungen erscheinen nach der Synchronisierung. Private Einladungen lassen sich im Teilen-Dialog widerrufen.|Compartir requiere iCloud y conexión. Los cambios aparecen al sincronizar. Revoca invitaciones privadas desde la hoja de compartir.|Servono iCloud e una connessione. Gli aggiornamenti appaiono dopo la sincronizzazione. Revoca gli inviti dal pannello di condivisione.|É preciso iCloud e conexão para compartilhar. As atualizações aparecem ao sincronizar. Revogue convites na tela de compartilhamento.|Απαιτούνται iCloud και σύνδεση. Οι αλλαγές εμφανίζονται στον συγχρονισμό. Ανακαλέστε προσκλήσεις στην οθόνη κοινής χρήσης.
+Show completed|Abgeschlossene anzeigen|Mostrar completados|Mostra completati|Mostrar concluídos|Εμφάνιση ολοκληρωμένων
+Sign in to iCloud to share with your team. Local editing and PDF export are available offline.|Melde dich bei iCloud an, um mit dem Team zu teilen. Lokales Bearbeiten und PDF-Export funktionieren offline.|Inicia sesión en iCloud para compartir con tu equipo. La edición local y la exportación PDF funcionan sin conexión.|Accedi a iCloud per condividere con la squadra. Modifica locale ed esportazione PDF funzionano offline.|Entre no iCloud para compartilhar com sua equipe. A edição local e a exportação PDF funcionam offline.|Συνδεθείτε στο iCloud για κοινή χρήση. Η τοπική επεξεργασία και η εξαγωγή PDF λειτουργούν εκτός σύνδεσης.
+Sport|Sportart|Deporte|Sport|Esporte|Άθλημα
+Step preview|Schrittvorschau|Vista por pasos|Anteprima a passi|Prévia por etapas|Προεπισκόπηση βημάτων
+Sync team library|Teambibliothek synchronisieren|Sincronizar biblioteca del equipo|Sincronizza libreria squadra|Sincronizar biblioteca da equipe|Συγχρονισμός βιβλιοθήκης ομάδας
+Sync when app opens|Beim Öffnen synchronisieren|Sincronizar al abrir la app|Sincronizza all'apertura|Sincronizar ao abrir o app|Συγχρονισμός στο άνοιγμα
+TACTICS STUDIO|TAKTIKSTUDIO|ESTUDIO TÁCTICO|STUDIO TATTICO|ESTÚDIO TÁTICO|ΕΡΓΑΣΤΗΡΙ ΤΑΚΤΙΚΗΣ
+Tactic details|Taktikdetails|Detalles de la táctica|Dettagli tattica|Detalhes da tática|Στοιχεία τακτικής
+Tactic library|Taktikbibliothek|Biblioteca táctica|Libreria tattiche|Biblioteca de táticas|Βιβλιοθήκη τακτικών
+Tactic name|Taktikname|Nombre de táctica|Nome tattica|Nome da tática|Όνομα τακτικής
+Tactical board|Taktiktafel|Pizarra táctica|Lavagna tattica|Quadro tático|Πίνακας τακτικής
+Tactics · tap in session order|Taktiken · in Trainingsreihenfolge antippen|Tácticas · toca en orden de sesión|Tattiche · tocca in ordine di sessione|Táticas · toque na ordem do treino|Τακτικές · επιλέξτε με σειρά προπόνησης
+Tap the field to place or erase.|Tippe zum Platzieren oder Radieren aufs Feld.|Toca el campo para colocar o borrar.|Tocca il campo per inserire o cancellare.|Toque no campo para colocar ou apagar.|Αγγίξτε το γήπεδο για τοποθέτηση ή σβήσιμο.
+Team & settings|Team & Einstellungen|Equipo y ajustes|Squadra e impostazioni|Equipe e ajustes|Ομάδα και ρυθμίσεις
+Team copy|Teamkopie|Copia del equipo|Copia squadra|Cópia da equipe|Αντίγραφο ομάδας
+Team copy · duplicate to edit|Teamkopie · zum Bearbeiten duplizieren|Copia del equipo · duplica para editar|Copia squadra · duplica per modificare|Cópia da equipe · duplique para editar|Αντίγραφο ομάδας · αντιγράψτε για αλλαγές
+Team library|Teambibliothek|Biblioteca del equipo|Libreria squadra|Biblioteca da equipe|Βιβλιοθήκη ομάδας
+Team library is up to date.|Die Teambibliothek ist aktuell.|La biblioteca del equipo está actualizada.|La libreria squadra è aggiornata.|A biblioteca da equipe está atualizada.|Η βιβλιοθήκη ομάδας είναι ενημερωμένη.
+Team sharing is optional. Your board works offline.|Teilen im Team ist optional. Deine Tafel funktioniert offline.|Compartir es opcional. Tu pizarra funciona sin conexión.|La condivisione è facoltativa. La lavagna funziona offline.|O compartilhamento é opcional. Seu quadro funciona offline.|Η κοινή χρήση είναι προαιρετική. Ο πίνακας λειτουργεί εκτός σύνδεσης.
+Team tactics updated|Teamtaktiken aktualisiert|Tácticas del equipo actualizadas|Tattiche squadra aggiornate|Táticas da equipe atualizadas|Ενημερώθηκαν τακτικές ομάδας
+The saved file could not be read. A recovery copy was used when available.|Die gespeicherte Datei war nicht lesbar. Wenn möglich wurde eine Sicherung verwendet.|No se pudo leer el archivo. Se usó una copia de recuperación cuando estaba disponible.|Impossibile leggere il file. È stata usata una copia di recupero se disponibile.|Não foi possível ler o arquivo. Uma cópia de recuperação foi usada quando disponível.|Δεν ήταν δυνατή η ανάγνωση. Χρησιμοποιήθηκε αντίγραφο ανάκτησης όπου υπήρχε.
+The shared tactic changed on another device. Sync before publishing again.|Die geteilte Taktik wurde auf einem anderen Gerät geändert. Synchronisiere vor dem erneuten Veröffentlichen.|La táctica cambió en otro dispositivo. Sincroniza antes de volver a compartir.|La tattica è cambiata su un altro dispositivo. Sincronizza prima di pubblicare di nuovo.|A tática mudou em outro aparelho. Sincronize antes de publicar novamente.|Η τακτική άλλαξε σε άλλη συσκευή. Συγχρονίστε πριν δημοσιεύσετε ξανά.
+The week ahead|Die kommende Woche|La próxima semana|La settimana in arrivo|A próxima semana|Η εβδομάδα μπροστά
+This file is not a valid Soach Board tactic.|Diese Datei ist keine gültige Soach Board-Taktik.|Este archivo no es una táctica válida de Soach Board.|Questo file non è una tattica Soach Board valida.|Este arquivo não é uma tática válida do Soach Board.|Το αρχείο δεν είναι έγκυρη τακτική Soach Board.
+Training|Training|Entrenamiento|Allenamento|Treinos|Προπόνηση
+Training reminders|Trainingserinnerungen|Recordatorios de entrenamiento|Promemoria allenamenti|Lembretes de treino|Υπενθυμίσεις προπόνησης
+Training soon|Training beginnt bald|Entrenamiento pronto|Allenamento a breve|Treino em breve|Προπόνηση σύντομα
+Training title|Trainingstitel|Título del entrenamiento|Titolo allenamento|Título do treino|Τίτλος προπόνησης
+Training tomorrow|Training morgen|Entrenamiento mañana|Allenamento domani|Treino amanhã|Προπόνηση αύριο
+Undo|Rückgängig|Deshacer|Annulla azione|Desfazer|Αναίρεση
+Untitled tactic|Unbenannte Taktik|Táctica sin título|Tattica senza titolo|Tática sem título|Τακτική χωρίς τίτλο
+Version|Version|Versión|Versione|Versão|Έκδοση
+Weekly sessions|Wöchentliche Einheiten|Sesiones semanales|Sessioni settimanali|Treinos semanais|Εβδομαδιαίες προπονήσεις
+Wide overload|Überzahl außen|Superioridad por banda|Superiorità laterale|Superioridade na lateral|Υπεραριθμία στα άκρα
+Widgets|Widgets|Widgets|Widget|Widgets|Widget
+Your iCloud tactics and invitations were removed. Local copies are unchanged.|Deine iCloud-Taktiken und Einladungen wurden entfernt. Lokale Kopien bleiben erhalten.|Se eliminaron tus tácticas e invitaciones de iCloud. Las copias locales no cambian.|Tattiche e inviti iCloud rimossi. Le copie locali restano invariate.|Suas táticas e convites do iCloud foram removidos. As cópias locais permanecem.|Οι τακτικές και προσκλήσεις iCloud αφαιρέθηκαν. Τα τοπικά αντίγραφα παραμένουν.
+Your latest tactic and training plan, saved on this device.|Deine letzte Taktik und dein Trainingsplan, lokal gespeichert.|Tu última táctica y tu plan, guardados en este dispositivo.|Ultima tattica e piano allenamenti salvati su questo dispositivo.|Sua última tática e seu plano salvos neste aparelho.|Η τελευταία τακτική και το πλάνο, αποθηκευμένα στη συσκευή.
+Your next training starts here|Dein nächstes Training beginnt hier|Tu próximo entrenamiento empieza aquí|Il prossimo allenamento parte da qui|Seu próximo treino começa aqui|Η επόμενη προπόνηση ξεκινά εδώ
+Your tactics and training plans stay on this device unless you export them or choose iCloud sharing. There is no advertising, analytics, tracking or developer server. Shared tactics are stored in your Apple iCloud account and shown only to invited participants.|Deine Taktiken und Trainingspläne bleiben auf diesem Gerät, bis du sie exportierst oder über iCloud teilst. Keine Werbung, Analyse, Nachverfolgung oder eigenen Server. Geteilte Taktiken liegen in deinem iCloud-Konto und sind nur für Eingeladene sichtbar.|Tus tácticas y planes permanecen en el dispositivo salvo que los exportes o compartas por iCloud. No hay publicidad, analítica, rastreo ni servidor propio. Las tácticas compartidas se guardan en tu iCloud y solo las ven los invitados.|Tattiche e piani restano sul dispositivo finché non li esporti o condividi con iCloud. Nessuna pubblicità, analisi, tracciamento o server proprio. Le tattiche condivise sono nel tuo iCloud e visibili solo agli invitati.|Suas táticas e planos ficam no aparelho, exceto se você exportar ou compartilhar pelo iCloud. Não há anúncios, análise, rastreamento ou servidor próprio. As táticas compartilhadas ficam no seu iCloud, visíveis apenas aos convidados.|Οι τακτικές και τα πλάνα μένουν στη συσκευή εκτός αν τα εξαγάγετε ή επιλέξετε iCloud. Χωρίς διαφημίσεις, αναλύσεις, παρακολούθηση ή δικό μας διακομιστή. Οι κοινές τακτικές αποθηκεύονται στο iCloud σας και φαίνονται μόνο σε προσκεκλημένους.
+Your tactics, ready at the touchline.|Deine Taktiken, bereit am Spielfeldrand.|Tus tácticas, listas en la banda.|Le tue tattiche, pronte a bordo campo.|Suas táticas prontas na beira do campo.|Οι τακτικές σας, έτοιμες στον πάγκο.
+Zone|Zone|Zona|Zona|Zona|Ζώνη
+frames|Bilder|fotogramas|fotogrammi|quadros|καρέ
+iCloud storage is full. Your local tactics are safe.|iCloud-Speicher voll. Deine lokalen Taktiken sind sicher.|iCloud está lleno. Tus tácticas locales están a salvo.|Spazio iCloud esaurito. Le tattiche locali sono al sicuro.|O iCloud está cheio. Suas táticas locais estão seguras.|Το iCloud είναι γεμάτο. Οι τοπικές τακτικές είναι ασφαλείς.
+markers|Figuren|figuras|pedine|peças|φιγούρες
+min|Min.|min|min|min|λεπτά
+Widget previews|Widget-Vorschau|Vista previa de widgets|Anteprima widget|Prévia de widgets|Προεπισκόπηση widget
+Widgets use your saved local data.|Widgets verwenden deine lokal gespeicherten Daten.|Los widgets usan tus datos guardados en el dispositivo.|I widget usano i dati salvati sul dispositivo.|Os widgets usam os dados salvos no aparelho.|Τα widget χρησιμοποιούν τα τοπικά αποθηκευμένα δεδομένα.
+Small|Klein|Pequeño|Piccolo|Pequeno|Μικρό
+Medium|Mittel|Mediano|Medio|Médio|Μεσαίο
+Large|Groß|Grande|Grande|Grande|Μεγάλο
+Lock Screen|Sperrbildschirm|Pantalla de bloqueo|Schermata di blocco|Tela Bloqueada|Οθόνη κλειδώματος
+Play sequence|Sequenz abspielen|Reproducir secuencia|Riproduci sequenza|Reproduzir sequência|Αναπαραγωγή ακολουθίας
+marker|Figur|figura|pedina|peça|φιγούρα
+drawing|Zeichnung|dibujo|disegno|desenho|σχέδιο
+drawings|Zeichnungen|dibujos|disegni|desenhos|σχέδια

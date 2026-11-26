@@ -1,0 +1,1 @@
+Uma prancheta de futebol em estilo de quadro de giz, voltada para treinadores. As marcações do campo e as letras em verde-limão remetem ao dia de jogo.

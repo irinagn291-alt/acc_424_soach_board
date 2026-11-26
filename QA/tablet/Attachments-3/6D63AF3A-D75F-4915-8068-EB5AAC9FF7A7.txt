@@ -1,0 +1,68 @@
+Failed to tap "Basketball" Button: Find single matching element. Multiple matching elements found for <XCUIElementQuery: 0x10821c870>.
+Sparse tree of matches:
+→Application, pid: 70775, label: 'Coach Board'
+  ↳Window (Main)
+    ↳Other
+    ⋅ ↳Other
+    ⋅   ↳Other
+    ⋅     ↳Other
+    ⋅       ↳Other
+    ⋅         ↳CollectionView
+    ⋅           ↳Cell
+    ⋅             ↳Button, label: 'Basketball'
+    ↳Other
+      ↳Other
+        ↳Other
+          ↳Other
+            ↳Other
+              ↳Other
+                ↳Other
+                  ↳Other
+                    ↳Other
+                      ↳Other
+                        ↳Other
+                          ↳Other
+                            ↳Other
+                              ↳Other
+                                ↳Other
+                                  ↳ScrollView
+                                    ↳Other
+                                      ↳Button, identifier: 'sportMenu', label: 'Basketball'
+Possibly caused by runtime issues:
+Automation type mismatch: computed Button from legacy attributes vs Cell from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 75;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeTraits" = 146297323528;
+}
+Automation type mismatch: computed Button from legacy attributes vs Other from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 0;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeTraits" = 8858370056;
+}
+Automation type mismatch: computed Button from legacy attributes vs Cell from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 75;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemCell";
+    "XC_kAXXCAttributeTraits" = 146297323520;
+}
+Automation type mismatch: computed Button from legacy attributes vs Other from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 0;
+    "XC_kAXXCAttributeElementBaseType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeElementType" = "_UIFloatingTabBarItemView";
+    "XC_kAXXCAttributeTraits" = 8858370048;
+}
+Automation type mismatch: computed Button from legacy attributes vs PopUpButton from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 14;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 1108101562369;
+}
+Automation type mismatch: computed Button from legacy attributes vs DisclosureTriangle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 13;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 8589934593;
+}
+See test report attachments for more detail.

@@ -1,0 +1,55 @@
+{
+  "devicesAndConfigurations" : [
+    {
+      "device" : {
+        "architecture" : "arm64",
+        "deviceId" : "9C67281E-595E-4A54-8D3C-3F28ABD0AC96",
+        "deviceName" : "GF isolated manual-qa 425d87e009c94166897e8a245655d28a iPad Pro 13-inch (M5)",
+        "modelName" : "iPad Pro 13-inch (M5)",
+        "osBuildNumber" : "24B8117",
+        "osVersion" : "27.2",
+        "platform" : "iOS Simulator"
+      },
+      "expectedFailures" : 0,
+      "failedTests" : 1,
+      "passedTests" : 7,
+      "skippedTests" : 0,
+      "testPlanConfiguration" : {
+        "configurationId" : "1",
+        "configurationName" : "Test Scheme Action"
+      }
+    }
+  ],
+  "environmentDescription" : "ChalkOrbit · Built with macOS 27.2.1",
+  "expectedFailures" : 0,
+  "failedTests" : 1,
+  "finishTime" : 1794752909.981,
+  "passedTests" : 7,
+  "result" : "Failed",
+  "runtimeWarnings" : [
+    {
+      "issueType" : "Runtime Warning",
+      "message" : "Publishing changes from within view updates is not allowed, this will cause undefined behavior."
+    }
+  ],
+  "skippedTests" : 0,
+  "startTime" : 1794752681.472,
+  "statistics" : [
+
+  ],
+  "testFailures" : [
+    {
+      "failureText" : "XCTAssertTrue failed",
+      "targetName" : "BoardJourney",
+      "testIdentifier" : 8,
+      "testIdentifierString" : "ZbJourney/test08AllDrawingTools()",
+      "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test08AllDrawingTools",
+      "testName" : "test08AllDrawingTools()"
+    }
+  ],
+  "title" : "Test - ChalkOrbit",
+  "topInsights" : [
+
+  ],
+  "totalTestCount" : 8
+}

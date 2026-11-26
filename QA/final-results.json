@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "path": "Artifacts/CoachBoard-Final.xcarchive",
+    "evidence": "Artifacts/Delivery.xcresult",
+    "log": "Artifacts/delivery.log",
+    "result": "ARCHIVE SUCCEEDED",
+    "signed": false
+  },
+  "completedDeviceRuns": [
+    {
+      "device": "iPhone 17",
+      "os": "27.2",
+      "resultBundle": "QA/phone/Journey-2.xcresult",
+      "revision": "Before final alert, row hit-area and iPad width fixes",
+      "passed": 8,
+      "failed": 0,
+      "skipped": 0,
+      "runtimeWarnings": [
+        {
+          "issueType": "Runtime Warning",
+          "message": "Publishing changes from within view updates is not allowed, this will cause undefined behavior."
+        }
+      ],
+      "appGroupMatchesLocal": true,
+      "snapshotSHA256": "15b540e10eb72cc3ff05a6e6b282142f264f01ebc00d5db0aa7472bb81da89b1"
+    },
+    {
+      "device": "iPad Pro 13-inch (M5)",
+      "os": "27.2",
+      "resultBundle": "QA/tablet/Journey-4.xcresult",
+      "revision": "Final production source",
+      "passed": 8,
+      "failed": 0,
+      "skipped": 0,
+      "runtimeWarnings": [],
+      "appGroupMatchesLocal": true,
+      "snapshotSHA256": "3e3d1c0b13f56077d467f1b73c9c10dc4525cbbb1b57e7a69498e8be91ee3fdd"
+    }
+  ],
+  "interruptedFinalPhoneConfirmation": {
+    "log": "QA/phone-confirmation/test.log",
+    "completedTests": [
+      "test01EditAndPersist",
+      "test02Training",
+      "test03SportsLibraryAndOffline",
+      "test04PDF",
+      "test05Widgets",
+      "test06NotificationDenial"
+    ],
+    "status": "Interrupted during test07LocalizedScreens; no completed xcresult",
+    "queuedRetry": "Cancelled before device allocation"
+  },
+  "sourceSHA256": {
+    "CoachBoard/BoardGlance.swift": "41837c4fee00f7f1e27e05476a022a7b270a92e97f04c897a6dbdb512042768b",
+    "CoachBoard/BoardJourney.swift": "baecd7ca3236b573ac8b691868a7225881a136e75f6f0f0e631498a0903a36de",
+    "CoachBoard/ChalkKernel.swift": "ec8757573a2ea805928167e6d23e6366ff6a43752b242d17aa2989204e0f61dd",
+    "CoachBoard/PocketArchive.swift": "dca5c185d8368669a451510b6cf4210c5821873cef742f7dcfac24d581cdeb1d",
+    "CoachBoard/SessionShelf.swift": "dab7f7cf28796882b37c1ed8fc81e01d979848fd6107e0f19dc5a749caaa2967",
+    "CoachBoard/TouchDesk.swift": "37be194621f6c6c1af2e4d48a15f28898dfa8c7be6b119147f1fb17b5d296713"
+  },
+  "unverified": [
+    "Two-account CloudKit sharing with a provisioned container",
+    "System Home/Lock Screen widget pinning; inline/circular system-host visual QA",
+    "Execution on iOS 17.4",
+    "Complete final-revision iPhone suite after interruption"
+  ]
+}

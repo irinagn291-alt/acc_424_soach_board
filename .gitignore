@@ -1,0 +1,5 @@
+Artifacts/DerivedData/
+Artifacts/DeviceDerivedData/
+Artifacts/ModuleCache/
+**/xcuserdata/
+.DS_Store

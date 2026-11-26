@@ -1,0 +1,195 @@
+Attributes: Other, 0x110962e40, {{16.0, 203.0}, {488.0, 470.0}}, identifier: 'pitch', label: 'Tactical board, Basketball', value: 4 markers, 2 drawi...
+Element subtree:
+ →Other, 0x110962e40, {{16.0, 203.0}, {488.0, 470.0}}, identifier: 'pitch', label: 'Tactical board, Basketball', value: 4 markers, 2 drawi...
+Path to element:
+ →Other, 0x110962e40, {{16.0, 203.0}, {488.0, 470.0}}, identifier: 'pitch', label: 'Tactical board, Basketball', value: 4 markers, 2 drawi...
+Query chain:
+ →Find: Target Application 'tools.chalkorbit.board672'
+  Output: {
+    Application, 0x111c33480, pid: 69690, label: 'Coach Board'
+  }
+  ↪︎Find: Descendants matching type Any
+    Output: {
+      Window (Main), 0x111bcf5c0, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Window, 0x111c330c0, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcf700, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcf840, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c33200, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcf980, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c33340, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcfac0, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcfc00, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcfd40, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111bcfe80, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c32440, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c470c0, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c32580, {{0.0, 32.0}, {1032.0, 44.0}}
+      Other, 0x111c47200, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Button, 0x111c326c0, {{306.8, 36.0}, {78.5, 36.0}}, identifier: 'sportscourt', label: 'Board'
+      Button, 0x111c32940, {{385.2, 36.0}, {87.0, 36.0}}, identifier: 'square.stack.3d.up', label: 'Library', Selected
+      Button, 0x111c32bc0, {{472.2, 36.0}, {95.0, 36.0}}, identifier: 'calendar', label: 'Training'
+      Button, 0x111c32e40, {{567.2, 36.0}, {158.0, 36.0}}, identifier: 'person.2', label: 'Team & settings'
+      Other, 0x111c47340, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Button, 0x111c32800, {{306.8, 36.0}, {78.5, 36.0}}, identifier: 'sportscourt', label: 'Board'
+      Button, 0x111c32a80, {{385.2, 36.0}, {87.0, 36.0}}, identifier: 'square.stack.3d.up', label: 'Library', Selected
+      Button, 0x111c32d00, {{472.2, 36.0}, {95.0, 36.0}}, identifier: 'calendar', label: 'Training'
+      Button, 0x111c32f80, {{567.2, 36.0}, {158.0, 36.0}}, identifier: 'person.2', label: 'Team & settings'
+      Other, 0x111c46440, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c46580, {{0.0, 0.0}, {1032.0, 1376.0}}
+      NavigationBar, 0x111c46e40, {{0.0, 32.0}, {1032.0, 106.0}}, identifier: 'Library'
+      Other, 0x111c461c0, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Toolbar, 0x111c321c0, {{0.0, 0.0}, {1032.0, 1376.0}}, identifier: 'Toolbar', label: 'Toolbar'
+      Other, 0x111c46f80, {{926.0, 36.0}, {36.0, 36.0}}
+      Button, 0x111c466c0, {{982.0, 36.0}, {36.0, 36.0}}, label: 'Search'
+      StaticText, 0x111c46800, {{20.0, 89.5}, {111.5, 41.0}}, label: 'Library'
+      Other, 0x111c46300, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c32300, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c46bc0, {{926.0, 36.0}, {36.0, 36.0}}
+      Other, 0x111c45f40, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Button, 0x111c46d00, {{929.0, 36.0}, {30.0, 36.0}}, label: 'Add'
+      Other, 0x111c46080, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Button, 0x111c46940, {{929.0, 36.0}, {30.0, 36.0}}
+      CollectionView, 0x111c45cc0, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Image, 0x111c46a80, {{933.0, 43.0}, {22.0, 22.0}}, identifier: 'plus.circle', label: 'Add'
+      Other, 0x111c45e00, {{-20.0, -2614.0}, {1072.0, 2826.0}}
+      Other, 0x111c45540, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Other, 0x111c45900, {{0.0, 0.0}, {1032.0, 1376.0}}
+      Cell, 0x111c45a40, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c452c0, {{-20.0, 212.0}, {1072.0, 87.0}}
+      Cell, 0x111c45180, {{20.0, 229.5}, {992.0, 52.0}}
+      Other, 0x111c44000, {{-20.0, 299.0}, {1072.0, 262.0}}
+      Cell, 0x111beaa80, {{20.0, 299.0}, {992.0, 40.5}}
+      Cell, 0x111bebd40, {{20.0, 339.5}, {992.0, 102.0}}
+      Cell, 0x111bea940, {{20.0, 441.5}, {992.0, 102.0}}
+      Other, 0x111c54500, {{158.0, 440.5}, {834.0, 1.0}}
+      Other, 0x111c54140, {{-20.0, 561.0}, {1072.0, 3242.5}}
+      Cell, 0x111bdf480, {{20.0, 561.0}, {992.0, 40.5}}
+      Cell, 0x111bdfd40, {{20.0, 601.5}, {992.0, 70.0}}
+      Cell, 0x111c28a00, {{20.0, 671.5}, {992.0, 70.0}}
+      Other, 0x111c297c0, {{82.0, 670.5}, {910.0, 1.0}}
+      Cell, 0x111c29900, {{20.0, 741.5}, {992.0, 70.0}}
+      Other, 0x111c2a6c0, {{82.0, 740.5}, {910.0, 1.0}}
+      Cell, 0x111c2a800, {{20.0, 811.5}, {992.0, 70.0}}
+      Other, 0x111c2b5c0, {{82.0, 810.5}, {910.0, 1.0}}
+      Cell, 0x111c2b700, {{20.0, 881.5}, {992.0, 70.0}}
+      Other, 0x111c30500, {{82.0, 880.5}, {910.0, 1.0}}
+      Cell, 0x111c30640, {{20.0, 951.5}, {992.0, 70.0}}
+      Other, 0x111c31400, {{82.0, 950.5}, {910.0, 1.0}}
+      Cell, 0x111c31540, {{20.0, 1021.5}, {992.0, 30.0}}
+      Other, 0x111c31cc0, {{999.0, 86.0}, {30.0, 1258.0}}, label: 'Vertical scroll bar, 1 page', value: 0%
+      Other, 0x111c457c0, {{0.0, 0.0}, {1032.0, 126.0}}
+      Other, 0x111c45b80, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c44a00, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c45040, {{20.0, 229.5}, {992.0, 52.0}}
+      Other, 0x111c44780, {{20.0, 229.5}, {992.0, 52.0}}
+      Other, 0x111bead00, {{20.0, 299.0}, {992.0, 40.5}}
+      Other, 0x111beae40, {{20.0, 299.0}, {992.0, 40.5}}
+      Other, 0x111bebe80, {{20.0, 339.5}, {992.0, 102.0}}
+      Other, 0x111beb840, {{20.0, 339.5}, {992.0, 102.0}}
+      Other, 0x111c54b40, {{20.0, 441.5}, {992.0, 102.0}}
+      Other, 0x111c54dc0, {{20.0, 441.5}, {992.0, 102.0}}
+      Other, 0x111bdf5c0, {{20.0, 561.0}, {992.0, 40.5}}
+      Other, 0x111bdf840, {{20.0, 561.0}, {992.0, 40.5}}
+      Other, 0x111bdfe80, {{20.0, 601.5}, {992.0, 70.0}}
+      Other, 0x111c28000, {{20.0, 601.5}, {992.0, 70.0}}
+      Other, 0x111c28b40, {{20.0, 671.5}, {992.0, 70.0}}
+      Other, 0x111c28dc0, {{20.0, 671.5}, {992.0, 70.0}}
+      Other, 0x111c29a40, {{20.0, 741.5}, {992.0, 70.0}}
+      Other, 0x111c29cc0, {{20.0, 741.5}, {992.0, 70.0}}
+      Other, 0x111c2a940, {{20.0, 811.5}, {992.0, 70.0}}
+      Other, 0x111c2abc0, {{20.0, 811.5}, {992.0, 70.0}}
+      Other, 0x111c2b840, {{20.0, 881.5}, {992.0, 70.0}}
+      Other, 0x111c2bac0, {{20.0, 881.5}, {992.0, 70.0}}
+      Other, 0x111c30780, {{20.0, 951.5}, {992.0, 70.0}}
+      Other, 0x111c30a00, {{20.0, 951.5}, {992.0, 70.0}}
+      Other, 0x111c31680, {{20.0, 1021.5}, {992.0, 30.0}}
+      Other, 0x111c317c0, {{20.0, 1021.5}, {992.0, 30.0}}
+      Other, 0x111c31e00, {{1026.0, 393.5}, {3.0, 947.5}}
+      Other, 0x111c45680, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c44b40, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c44f00, {{20.0, 229.5}, {992.0, 52.0}}
+      Other, 0x111c448c0, {{20.0, 229.5}, {992.0, 52.0}}
+      Other, 0x111beaf80, {{20.0, 299.0}, {992.0, 40.5}}
+      Other, 0x111beabc0, {{20.0, 339.5}, {992.0, 102.0}}
+      Other, 0x111beb980, {{20.0, 339.5}, {992.0, 102.0}}
+      Other, 0x111c54c80, {{20.0, 441.5}, {992.0, 102.0}}
+      Other, 0x111c54000, {{20.0, 441.5}, {992.0, 102.0}}
+      Other, 0x111bdf980, {{20.0, 561.0}, {992.0, 40.5}}
+      Other, 0x111bdf700, {{20.0, 601.5}, {992.0, 70.0}}
+      Other, 0x111c28140, {{20.0, 601.5}, {992.0, 70.0}}
+      Other, 0x111c28c80, {{20.0, 671.5}, {992.0, 70.0}}
+      Other, 0x111c28f00, {{20.0, 671.5}, {992.0, 70.0}}
+      Other, 0x111c29b80, {{20.0, 741.5}, {992.0, 70.0}}
+      Other, 0x111c29e00, {{20.0, 741.5}, {992.0, 70.0}}
+      Other, 0x111c2aa80, {{20.0, 811.5}, {992.0, 70.0}}
+      Other, 0x111c2ad00, {{20.0, 811.5}, {992.0, 70.0}}
+      Other, 0x111c2b980, {{20.0, 881.5}, {992.0, 70.0}}
+      Other, 0x111c2bc00, {{20.0, 881.5}, {992.0, 70.0}}
+      Other, 0x111c308c0, {{20.0, 951.5}, {992.0, 70.0}}
+      Other, 0x111c30b40, {{20.0, 951.5}, {992.0, 70.0}}
+      Other, 0x111c31900, {{20.0, 1021.5}, {992.0, 30.0}}
+      Other, 0x111c45400, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c44c80, {{20.0, 138.0}, {992.0, 56.5}}
+      Other, 0x111c44500, {{20.0, 229.5}, {992.0, 52.0}}
+      Other, 0x111beb0c0, {{20.0, 299.0}, {992.0, 40.5}}
+      Other, 0x111bebac0, {{20.0, 339.5}, {992.0, 102.0}}
+      Other, 0x111c548c0, {{20.0, 441.5}, {992.0, 102.0}}
+      Other, 0x111bdfac0, {{20.0, 561.0}, {992.0, 40.5}}
+      Other, 0x111c28280, {{20.0, 601.5}, {992.0, 70.0}}
+      Other, 0x111c29040, {{20.0, 671.5}, {992.0, 70.0}}
+      Other, 0x111c29f40, {{20.0, 741.5}, {992.0, 70.0}}
+      Other, 0x111c2ae40, {{20.0, 811.5}, {992.0, 70.0}}
+      Other, 0x111c2bd40, {{20.0, 881.5}, {992.0, 70.0}}
+      Other, 0x111c30c80, {{20.0, 951.5}, {992.0, 70.0}}
+      Other, 0x111c31a40, {{20.0, 1021.5}, {992.0, 30.0}}
+      Other, 0x111c44640, {{20.0, 138.0}, {992.0, 56.5}}
+      StaticText, 0x111c44dc0, {{20.0, 138.0}, {992.0, 56.5}}, label: 'Your tactics, ready at the touchline.'
+      Button, 0x111c443c0, {{40.0, 238.5}, {952.0, 34.5}}, label: 'Sport, All sports'
+      StaticText, 0x111c44140, {{40.0, 245.2}, {42.0, 20.5}}, label: 'Sport'
+      StaticText, 0x111beb700, {{20.0, 299.0}, {992.0, 40.5}}, label: 'Saved tactics'
+      Button, 0x111bebc00, {{20.0, 339.5}, {992.0, 102.0}}, label: 'Tactical board, Basketball, Untitled tactic, Basketball · 1 Frame', value: 3 markers, 2 drawi...
+      Button, 0x111c54a00, {{20.0, 441.5}, {992.0, 102.0}}, label: 'Tactical board, Basketball, Touchline pattern, Basketball · 4 frames', value: 11 markers, 3 draw...
+      StaticText, 0x111bdfc00, {{20.0, 561.0}, {992.0, 40.5}}, label: 'Exercise starters'
+      Button, 0x111c283c0, {{20.0, 601.5}, {992.0, 70.0}}, label: 'Build from the back, Football · Built-in exercise'
+      Button, 0x111c29180, {{20.0, 671.5}, {992.0, 70.0}}, label: 'Wide overload, Football · Built-in exercise'
+      Button, 0x111c2a080, {{20.0, 741.5}, {992.0, 70.0}}, label: 'Press and recover, Football · Built-in exercise'
+      Button, 0x111c2af80, {{20.0, 811.5}, {992.0, 70.0}}, label: 'Rotation triangle, Futsal · Built-in exercise'
+      Button, 0x111c2be80, {{20.0, 881.5}, {992.0, 70.0}}, label: 'Give and go, Basketball · Built-in exercise'
+      Button, 0x111c30dc0, {{20.0, 951.5}, {992.0, 70.0}}, label: 'Screen and cut, Basketball · Built-in exercise'
+      StaticText, 0x111c31b80, {{20.0, 1021.5}, {992.0, 30.0}}, label: 'Built-in exercises are starting points. Adapt the movements and intensity to your players.'
+      StaticText, 0x111c44280, {{904.5, 245.5}, {71.5, 20.5}}, label: 'All sports'
+      Other, 0x111beb5c0, {{40.0, 354.5}, {104.0, 72.0}}, label: 'Tactical board, Basketball', value: 3 markers, 2 drawi...
+      StaticText, 0x111beb340, {{158.0, 370.5}, {112.5, 20.5}}, label: 'Untitled tactic'
+      StaticText, 0x111beb480, {{158.0, 396.0}, {113.0, 14.5}}, label: 'Basketball · 1 Frame'
+      Image, 0x111beb200, {{982.5, 383.5}, {8.5, 14.5}}, identifier: 'chevron.right', label: 'Forward'
+      Other, 0x111c54280, {{40.0, 456.5}, {104.0, 72.0}}, label: 'Tactical board, Basketball', value: 11 markers, 3 draw...
+      StaticText, 0x111c54640, {{158.0, 472.5}, {139.5, 20.5}}, label: 'Touchline pattern'
+      StaticText, 0x111c54780, {{158.0, 498.0}, {119.0, 14.5}}, label: 'Basketball · 4 frames'
+      Image, 0x111c543c0, {{982.5, 485.5}, {8.5, 14.5}}, identifier: 'chevron.right', label: 'Forward'
+      Image, 0x111c28500, {{47.0, 626.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball'
+      StaticText, 0x111c28640, {{82.0, 616.5}, {154.5, 20.5}}, label: 'Build from the back'
+      Image, 0x111c28780, {{973.5, 628.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add'
+      StaticText, 0x111c288c0, {{82.0, 642.0}, {146.5, 14.5}}, label: 'Football · Built-in exercise'
+      Image, 0x111c292c0, {{47.0, 696.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball'
+      StaticText, 0x111c29400, {{82.0, 686.5}, {113.5, 20.5}}, label: 'Wide overload'
+      Image, 0x111c29540, {{973.5, 698.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add'
+      StaticText, 0x111c29680, {{82.0, 712.0}, {146.5, 14.5}}, label: 'Football · Built-in exercise'
+      Image, 0x111c2a1c0, {{47.0, 766.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball'
+      StaticText, 0x111c2a300, {{82.0, 756.5}, {142.5, 20.5}}, label: 'Press and recover'
+      Image, 0x111c2a440, {{973.5, 768.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add'
+      StaticText, 0x111c2a580, {{82.0, 782.0}, {146.5, 14.5}}, label: 'Football · Built-in exercise'
+      Image, 0x111c2b0c0, {{47.0, 836.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball'
+      StaticText, 0x111c2b200, {{82.0, 826.5}, {131.5, 20.5}}, label: 'Rotation triangle'
+      Image, 0x111c2b340, {{973.5, 838.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add'
+      StaticText, 0x111c2b480, {{82.0, 852.0}, {135.5, 14.5}}, label: 'Futsal · Built-in exercise'
+      Image, 0x111c30000, {{47.0, 906.5}, {20.0, 20.0}}, identifier: 'basketball', label: 'Basketball With Seam Lines'
+      StaticText, 0x111c30140, {{82.0, 896.5}, {93.5, 20.5}}, label: 'Give and go'
+      Image, 0x111c30280, {{973.5, 908.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add'
+      StaticText, 0x111c303c0, {{82.0, 922.0}, {159.5, 14.5}}, label: 'Basketball · Built-in exercise'
+      Image, 0x111c30f00, {{47.0, 976.5}, {20.0, 20.0}}, identifier: 'basketball', label: 'Basketball With Seam Lines'
+      StaticText, 0x111c31040, {{82.0, 966.5}, {119.5, 20.5}}, label: 'Screen and cut'
+      Image, 0x111c31180, {{973.5, 978.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add'
+      StaticText, 0x111c312c0, {{82.0, 992.0}, {159.5, 14.5}}, label: 'Basketball · Built-in exercise'
+    }
+    ↪︎Find: Elements matching predicate '"pitch" IN identifiers'
+      ↪︎Find: First Match

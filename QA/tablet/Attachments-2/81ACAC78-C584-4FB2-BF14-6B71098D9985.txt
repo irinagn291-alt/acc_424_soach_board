@@ -1,0 +1,10 @@
+Attributes: Other, 0x110962e40, {{16.0, 203.0}, {488.0, 470.0}}, identifier: 'pitch', label: 'Tactical board, Basketball', value: 4 markers, 2 drawi...
+Element subtree:
+ →Other, 0x110962e40, {{16.0, 203.0}, {488.0, 470.0}}, identifier: 'pitch', label: 'Tactical board, Basketball', value: 4 markers, 2 drawi...
+Path to element:
+ →Other, 0x110962e40, {{16.0, 203.0}, {488.0, 470.0}}, identifier: 'pitch', label: 'Tactical board, Basketball', value: 4 markers, 2 drawi...
+Query chain:
+ →Find: Target Application 'tools.chalkorbit.board672'
+  ↪︎Find: Descendants matching type Any
+    ↪︎Find: Elements matching predicate '"pitch" IN identifiers'
+      ↪︎Find: First Match

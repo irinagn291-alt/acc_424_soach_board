@@ -1,0 +1,183 @@
+Application, 0x110962800, pid: 69690, label: 'Coach Board' <App element pid: 69690>
+  Window (Main), 0x1109635c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4347772928.4>
+    Other, 0x110962a80, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4391629824.6>
+    Other, 0x110960500, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392723840.7>
+      Other, 0x110961900, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392725120.9>
+        Other, 0x110962080, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4347824640.11>
+          Other, 0x110963d40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4535773824.12>
+            Other, 0x110963480, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4391618560.13>
+              Other, 0x1109617c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392710016.14>
+                Other, 0x110961a40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4349002240.166>
+                  Other, 0x110960f00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4347829760.167>
+                    Other, 0x110963700, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4600068000.168>
+                      Other, 0x110960dc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4600069440.169>
+                        Other, 0x110963c00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392393216.170>
+                          NavigationBar, 0x110963340, {{0.0, 32.0}, {1032.0, 106.0}}, identifier: 'Library' <AX element pid: 69690, elementOrHash.elementID: 4511248384.171>
+                            Other, 0x110962940, {{926.0, 36.0}, {36.0, 36.0}} <AX element pid: 69690, elementOrHash.elementID: 4522663424.174>
+                              Other, 0x1109630c0, {{926.0, 36.0}, {36.0, 36.0}} <AX element pid: 69690, elementOrHash.elementID: 4600057920.179>
+                                Button, 0x110961e00, {{929.0, 36.0}, {30.0, 36.0}}, label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4600054880.181>
+                                  Button, 0x110962d00, {{929.0, 36.0}, {30.0, 36.0}} <AX element pid: 69690, elementOrHash.elementID: 4391850368.183>
+                                    Image, 0x110961b80, {{933.0, 43.0}, {22.0, 22.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4600055520.185>
+                            Button, 0x110963980, {{982.0, 36.0}, {36.0, 36.0}}, label: 'Search' <AX element pid: 69690, elementOrHash.elementID: 4535939584.175>
+                            StaticText, 0x110963200, {{20.0, 89.5}, {111.5, 41.0}}, label: 'Library' <AX element pid: 69690, elementOrHash.elementID: 4392395776.176>
+                          Other, 0x110961540, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4588970304.172>
+                            Other, 0x110962f80, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392400896.177>
+                              Other, 0x110963ac0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4590053376.180>
+                                Other, 0x110961040, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4600058080.182>
+                                  CollectionView, 0x110962300, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4509805056.184>
+                                    Other, 0x110962440, {{-20.0, -2614.0}, {1072.0, 2826.0}} <AX element pid: 69690, elementOrHash.elementID: 4597819392.186>
+                                    Other, 0x110961f40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4588974784.187>
+                                      Other, 0x110961180, {{0.0, 0.0}, {1032.0, 126.0}} <AX element pid: 69690, elementOrHash.elementID: 4597872192.212>
+                                    Other, 0x1109621c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4588976128.188>
+                                    Cell, 0x110961400, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4522664704.189>
+                                      Other, 0x110961680, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4597809792.213>
+                                        Other, 0x110960140, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4392562176.240>
+                                          Other, 0x110962bc0, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4590055424.263>
+                                            Other, 0x110962580, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4524825312.277>
+                                      Other, 0x1109626c0, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4597860992.214>
+                                        Other, 0x110963e80, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4597599232.241>
+                                          Other, 0x110829f40, {{20.0, 138.0}, {992.0, 56.5}} <AX element pid: 69690, elementOrHash.elementID: 4600055680.264>
+                                            StaticText, 0x1108292c0, {{20.0, 138.0}, {992.0, 56.5}}, label: 'Your tactics, ready at the touchline.' <AX element pid: 69690, elementOrHash.elementID: 4600069120.278>
+                                    Other, 0x11082a440, {{-20.0, 212.0}, {1072.0, 87.0}} <AX element pid: 69690, elementOrHash.elementID: 4597820032.190>
+                                    Cell, 0x11082b200, {{20.0, 229.5}, {992.0, 52.0}} <AX element pid: 69690, elementOrHash.elementID: 4522665984.191>
+                                      Other, 0x110828f00, {{20.0, 229.5}, {992.0, 52.0}} <AX element pid: 69690, elementOrHash.elementID: 4597810432.215>
+                                        Other, 0x11082ae40, {{20.0, 229.5}, {992.0, 52.0}} <AX element pid: 69690, elementOrHash.elementID: 4597861888.242>
+                                      Other, 0x11082a6c0, {{20.0, 229.5}, {992.0, 52.0}} <AX element pid: 69690, elementOrHash.elementID: 4597861440.216>
+                                        Other, 0x110829e00, {{20.0, 229.5}, {992.0, 52.0}} <AX element pid: 69690, elementOrHash.elementID: 4597600768.243>
+                                          Other, 0x11082a080, {{20.0, 229.5}, {992.0, 52.0}} <AX element pid: 69690, elementOrHash.elementID: 4600068160.265>
+                                            Button, 0x11082a300, {{40.0, 238.5}, {952.0, 34.5}}, label: 'Sport, All sports' <AX element pid: 69690, elementOrHash.elementID: 4391852160.279>
+                                              StaticText, 0x110829400, {{904.5, 245.5}, {71.5, 20.5}}, label: 'All sports' <AX element pid: 69690, elementOrHash.elementID: 4392564736.295>
+                                            StaticText, 0x11082b340, {{40.0, 245.2}, {42.0, 20.5}}, label: 'Sport' <AX element pid: 69690, elementOrHash.elementID: 4600068800.280>
+                                    Other, 0x11082b480, {{-20.0, 299.0}, {1072.0, 262.0}} <AX element pid: 69690, elementOrHash.elementID: 4597820672.192>
+                                    Cell, 0x110829900, {{20.0, 299.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4599453952.193>
+                                      Other, 0x11082be80, {{20.0, 299.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4597817472.217>
+                                      Other, 0x110829180, {{20.0, 299.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4597870848.218>
+                                        Other, 0x11082bac0, {{20.0, 299.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4599811072.244>
+                                          Other, 0x11082b840, {{20.0, 299.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4394710624.266>
+                                            StaticText, 0x11082bc00, {{20.0, 299.0}, {992.0, 40.5}}, label: 'Saved tactics' <AX element pid: 69690, elementOrHash.elementID: 4394701664.281>
+                                    Cell, 0x11082a580, {{20.0, 339.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4522667264.194>
+                                      Other, 0x110829040, {{20.0, 339.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597812352.219>
+                                        Other, 0x110828dc0, {{20.0, 339.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597863680.245>
+                                      Other, 0x11082b0c0, {{20.0, 339.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597862784.220>
+                                        Other, 0x11082b700, {{20.0, 339.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597602304.246>
+                                          Other, 0x110829680, {{20.0, 339.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4511205728.267>
+                                            Button, 0x11082a940, {{20.0, 339.5}, {992.0, 102.0}}, label: 'Tactical board, Basketball, Untitled tactic, Basketball · 1 Frame', value: 3 markers, 2 drawi... <AX element pid: 69690, elementOrHash.elementID: 4511208768.282>
+                                              Other, 0x11082b5c0, {{40.0, 354.5}, {104.0, 72.0}}, label: 'Tactical board, Basketball', value: 3 markers, 2 drawi... <AX element pid: 69690, elementOrHash.elementID: 4511209568.296>
+                                              StaticText, 0x11082a1c0, {{158.0, 370.5}, {112.5, 20.5}}, label: 'Untitled tactic' <AX element pid: 69690, elementOrHash.elementID: 4511209088.297>
+                                              StaticText, 0x110829540, {{158.0, 396.0}, {113.0, 14.5}}, label: 'Basketball · 1 Frame' <AX element pid: 69690, elementOrHash.elementID: 4511218208.298>
+                                              Image, 0x11082aa80, {{982.5, 383.5}, {8.5, 14.5}}, identifier: 'chevron.right', label: 'Forward' <AX element pid: 69690, elementOrHash.elementID: 4511215008.299>
+                                    Cell, 0x11082abc0, {{20.0, 441.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4522668544.195>
+                                      Other, 0x11082af80, {{20.0, 441.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597812992.221>
+                                        Other, 0x1108297c0, {{20.0, 441.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597864576.247>
+                                      Other, 0x110829cc0, {{20.0, 441.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597864128.222>
+                                        Other, 0x11082b980, {{20.0, 441.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4597603840.248>
+                                          Other, 0x11082bd40, {{20.0, 441.5}, {992.0, 102.0}} <AX element pid: 69690, elementOrHash.elementID: 4590413504.268>
+                                            Button, 0x107e6c140, {{20.0, 441.5}, {992.0, 102.0}}, label: 'Tactical board, Basketball, Touchline pattern, Basketball · 4 frames', value: 11 markers, 3 draw... <AX element pid: 69690, elementOrHash.elementID: 4590408704.283>
+                                              Other, 0x107e6c500, {{40.0, 456.5}, {104.0, 72.0}}, label: 'Tactical board, Basketball', value: 11 markers, 3 draw... <AX element pid: 69690, elementOrHash.elementID: 4590418624.300>
+                                              StaticText, 0x107e6f5c0, {{158.0, 472.5}, {139.5, 20.5}}, label: 'Touchline pattern' <AX element pid: 69690, elementOrHash.elementID: 4590413664.301>
+                                              StaticText, 0x107e6f480, {{158.0, 498.0}, {119.0, 14.5}}, label: 'Basketball · 4 frames' <AX element pid: 69690, elementOrHash.elementID: 4590404864.302>
+                                              Image, 0x110945f40, {{982.5, 485.5}, {8.5, 14.5}}, identifier: 'chevron.right', label: 'Forward' <AX element pid: 69690, elementOrHash.elementID: 4590410944.303>
+                                    Other, 0x110946800, {{158.0, 440.5}, {834.0, 1.0}} <AX element pid: 69690, elementOrHash.elementID: 4597821312.196>
+                                    Other, 0x110946300, {{-20.0, 561.0}, {1072.0, 3242.5}} <AX element pid: 69690, elementOrHash.elementID: 4597821952.197>
+                                    Cell, 0x1109470c0, {{20.0, 561.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4599455232.198>
+                                      Other, 0x110946580, {{20.0, 561.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4597818112.223>
+                                      Other, 0x110947340, {{20.0, 561.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4597871296.224>
+                                        Other, 0x1109466c0, {{20.0, 561.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4599812608.249>
+                                          Other, 0x110944780, {{20.0, 561.0}, {992.0, 40.5}} <AX element pid: 69690, elementOrHash.elementID: 4590414624.269>
+                                            StaticText, 0x110944f00, {{20.0, 561.0}, {992.0, 40.5}}, label: 'Exercise starters' <AX element pid: 69690, elementOrHash.elementID: 4590405344.287>
+                                    Cell, 0x110944500, {{20.0, 601.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4522669824.199>
+                                      Other, 0x110945040, {{20.0, 601.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597813632.225>
+                                        Other, 0x110944c80, {{20.0, 601.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597865472.250>
+                                      Other, 0x110946d00, {{20.0, 601.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597865024.226>
+                                        Other, 0x110946940, {{20.0, 601.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597605376.251>
+                                          Other, 0x110944280, {{20.0, 601.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4590405664.270>
+                                            Button, 0x110947200, {{20.0, 601.5}, {992.0, 70.0}}, label: 'Build from the back, Football · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590405184.288>
+                                              Image, 0x110944140, {{47.0, 626.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball' <AX element pid: 69690, elementOrHash.elementID: 4590412064.304>
+                                              StaticText, 0x1109443c0, {{82.0, 616.5}, {154.5, 20.5}}, label: 'Build from the back' <AX element pid: 69690, elementOrHash.elementID: 4590403904.305>
+                                              Image, 0x1109457c0, {{973.5, 628.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4590413984.306>
+                                              StaticText, 0x110944a00, {{82.0, 642.0}, {146.5, 14.5}}, label: 'Football · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590411424.307>
+                                    Cell, 0x1109461c0, {{20.0, 671.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599447552.200>
+                                      Other, 0x110946a80, {{20.0, 671.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597814272.227>
+                                        Other, 0x110945180, {{20.0, 671.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597866368.252>
+                                      Other, 0x110944dc0, {{20.0, 671.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597865920.228>
+                                        Other, 0x110945400, {{20.0, 671.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597606912.253>
+                                          Other, 0x110944640, {{20.0, 671.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4590408544.271>
+                                            Button, 0x110945b80, {{20.0, 671.5}, {992.0, 70.0}}, label: 'Wide overload, Football · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590413184.289>
+                                              Image, 0x110946080, {{47.0, 696.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball' <AX element pid: 69690, elementOrHash.elementID: 4590413344.308>
+                                              StaticText, 0x110945a40, {{82.0, 686.5}, {113.5, 20.5}}, label: 'Wide overload' <AX element pid: 69690, elementOrHash.elementID: 4590407744.309>
+                                              Image, 0x110944000, {{973.5, 698.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4590410784.310>
+                                              StaticText, 0x1109452c0, {{82.0, 712.0}, {146.5, 14.5}}, label: 'Football · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590409024.311>
+                                    Other, 0x1109448c0, {{82.0, 670.5}, {910.0, 1.0}} <AX element pid: 69690, elementOrHash.elementID: 4597822592.201>
+                                    Cell, 0x110945680, {{20.0, 741.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599448832.202>
+                                      Other, 0x110945540, {{20.0, 741.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597814912.229>
+                                        Other, 0x110944b40, {{20.0, 741.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597867264.254>
+                                      Other, 0x110946bc0, {{20.0, 741.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597866816.230>
+                                        Other, 0x110945900, {{20.0, 741.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597608448.255>
+                                          Other, 0x110945cc0, {{20.0, 741.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4590417184.272>
+                                            Button, 0x110946f80, {{20.0, 741.5}, {992.0, 70.0}}, label: 'Press and recover, Football · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590409664.290>
+                                              Image, 0x110946e40, {{47.0, 766.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball' <AX element pid: 69690, elementOrHash.elementID: 4590416704.312>
+                                              StaticText, 0x110945e00, {{82.0, 756.5}, {142.5, 20.5}}, label: 'Press and recover' <AX element pid: 69690, elementOrHash.elementID: 4590405824.313>
+                                              Image, 0x110946440, {{973.5, 768.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4590415584.314>
+                                              StaticText, 0x111c82940, {{82.0, 782.0}, {146.5, 14.5}}, label: 'Football · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590410624.315>
+                                    Other, 0x111c82a80, {{82.0, 740.5}, {910.0, 1.0}} <AX element pid: 69690, elementOrHash.elementID: 4597823232.203>
+                                    Cell, 0x111c82f80, {{20.0, 811.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599450112.204>
+                                      Other, 0x111c82bc0, {{20.0, 811.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597815552.231>
+                                        Other, 0x111c82800, {{20.0, 811.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597868160.256>
+                                      Other, 0x111c80000, {{20.0, 811.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597867712.232>
+                                        Other, 0x111c83340, {{20.0, 811.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597609984.257>
+                                          Other, 0x111c83200, {{20.0, 811.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4590411904.273>
+                                            Button, 0x111c830c0, {{20.0, 811.5}, {992.0, 70.0}}, label: 'Rotation triangle, Futsal · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590412704.291>
+                                              Image, 0x111c82580, {{47.0, 836.5}, {20.0, 20.0}}, identifier: 'soccerball', label: 'Soccer Ball' <AX element pid: 69690, elementOrHash.elementID: 4590415264.316>
+                                              StaticText, 0x111c821c0, {{82.0, 826.5}, {131.5, 20.5}}, label: 'Rotation triangle' <AX element pid: 69690, elementOrHash.elementID: 4590416224.317>
+                                              Image, 0x111c81f40, {{973.5, 838.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4590414464.318>
+                                              StaticText, 0x111c81cc0, {{82.0, 852.0}, {135.5, 14.5}}, label: 'Futsal · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590410304.319>
+                                    Other, 0x111c808c0, {{82.0, 810.5}, {910.0, 1.0}} <AX element pid: 69690, elementOrHash.elementID: 4597823872.205>
+                                    Cell, 0x111c80780, {{20.0, 881.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599451392.206>
+                                      Other, 0x111c81180, {{20.0, 881.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597816192.233>
+                                        Other, 0x111c82080, {{20.0, 881.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597869056.258>
+                                      Other, 0x111c82300, {{20.0, 881.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597868608.234>
+                                        Other, 0x111c81a40, {{20.0, 881.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599808000.259>
+                                          Other, 0x111c80b40, {{20.0, 881.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4590404224.274>
+                                            Button, 0x111c80a00, {{20.0, 881.5}, {992.0, 70.0}}, label: 'Give and go, Basketball · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590419744.292>
+                                              Image, 0x111c803c0, {{47.0, 906.5}, {20.0, 20.0}}, identifier: 'basketball', label: 'Basketball With Seam Lines' <AX element pid: 69690, elementOrHash.elementID: 4590417824.320>
+                                              StaticText, 0x111c82440, {{82.0, 896.5}, {93.5, 20.5}}, label: 'Give and go' <AX element pid: 69690, elementOrHash.elementID: 4590413024.321>
+                                              Image, 0x111c80280, {{973.5, 908.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4590409344.322>
+                                              StaticText, 0x111c80500, {{82.0, 922.0}, {159.5, 14.5}}, label: 'Basketball · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590412384.323>
+                                    Other, 0x111c80dc0, {{82.0, 880.5}, {910.0, 1.0}} <AX element pid: 69690, elementOrHash.elementID: 4597824512.207>
+                                    Cell, 0x111c80c80, {{20.0, 951.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599452672.208>
+                                      Other, 0x111c812c0, {{20.0, 951.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597816832.235>
+                                        Other, 0x111c80640, {{20.0, 951.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597870400.260>
+                                      Other, 0x111c81b80, {{20.0, 951.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4597869952.236>
+                                        Other, 0x111c80140, {{20.0, 951.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4599809536.261>
+                                          Other, 0x111c81040, {{20.0, 951.5}, {992.0, 70.0}} <AX element pid: 69690, elementOrHash.elementID: 4590416864.275>
+                                            Button, 0x111c80f00, {{20.0, 951.5}, {992.0, 70.0}}, label: 'Screen and cut, Basketball · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590409184.293>
+                                              Image, 0x111c81900, {{47.0, 976.5}, {20.0, 20.0}}, identifier: 'basketball', label: 'Basketball With Seam Lines' <AX element pid: 69690, elementOrHash.elementID: 4590415104.324>
+                                              StaticText, 0x111c81540, {{82.0, 966.5}, {119.5, 20.5}}, label: 'Screen and cut' <AX element pid: 69690, elementOrHash.elementID: 4590414144.325>
+                                              Image, 0x111c817c0, {{973.5, 978.0}, {17.0, 17.0}}, identifier: 'plus.circle', label: 'Add' <AX element pid: 69690, elementOrHash.elementID: 4590410144.326>
+                                              StaticText, 0x111c81400, {{82.0, 992.0}, {159.5, 14.5}}, label: 'Basketball · Built-in exercise' <AX element pid: 69690, elementOrHash.elementID: 4590416384.327>
+                                    Other, 0x111c81680, {{82.0, 950.5}, {910.0, 1.0}} <AX element pid: 69690, elementOrHash.elementID: 4600414208.209>
+                                    Cell, 0x111c81e00, {{20.0, 1021.5}, {992.0, 30.0}} <AX element pid: 69690, elementOrHash.elementID: 4599456512.210>
+                                      Other, 0x111c82e40, {{20.0, 1021.5}, {992.0, 30.0}} <AX element pid: 69690, elementOrHash.elementID: 4597818752.237>
+                                      Other, 0x111c826c0, {{20.0, 1021.5}, {992.0, 30.0}} <AX element pid: 69690, elementOrHash.elementID: 4597871744.238>
+                                        Other, 0x111c82d00, {{20.0, 1021.5}, {992.0, 30.0}} <AX element pid: 69690, elementOrHash.elementID: 4599814144.262>
+                                          Other, 0x110958280, {{20.0, 1021.5}, {992.0, 30.0}} <AX element pid: 69690, elementOrHash.elementID: 4524831392.276>
+                                            StaticText, 0x110958000, {{20.0, 1021.5}, {992.0, 30.0}}, label: 'Built-in exercises are starting points. Adapt the movements and intensity to your players.' <AX element pid: 69690, elementOrHash.elementID: 4524828832.294>
+                                    Other, 0x110958140, {{999.0, 86.0}, {30.0, 1258.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 69690, elementOrHash.elementID: 4392497152.211>
+                                      Other, 0x111beb0c0, {{1026.0, 393.5}, {3.0, 947.5}} <AX element pid: 69690, elementOrHash.elementID: 4349286976.239>
+                                    Other, 0x111beaf80, {{999.0, 86.0}, {30.0, 1258.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 69690, elementOrHash.elementID: 4392497152.211>
+                                      Other, 0x111bebe80, {{1026.0, 393.5}, {3.0, 947.5}} <AX element pid: 69690, elementOrHash.elementID: 4349286976.239>
+                          Toolbar, 0x111beabc0, {{0.0, 0.0}, {1032.0, 1376.0}}, identifier: 'Toolbar', label: 'Toolbar' <AX element pid: 69690, elementOrHash.elementID: 4392393728.173>
+                            Other, 0x111beb340, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4535960192.178>
+              Other, 0x111beb5c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4347778048.15>
+                Other, 0x111beb700, {{0.0, 32.0}, {1032.0, 44.0}} <AX element pid: 69690, elementOrHash.elementID: 4391845888.17>
+                  Button, 0x111bebc00, {{306.8, 36.0}, {78.5, 36.0}}, identifier: 'sportscourt', label: 'Board' <AX element pid: 69690, elementOrHash.elementID: 4511236096.19>
+                    Button, 0x111bead00, {{306.8, 36.0}, {78.5, 36.0}}, identifier: 'sportscourt', label: 'Board' <AX element pid: 69690, elementOrHash.elementID: 4392681984.24>
+                  Button, 0x111beaa80, {{385.2, 36.0}, {87.0, 36.0}}, identifier: 'square.stack.3d.up', label: 'Library', Selected <AX element pid: 69690, elementOrHash.elementID: 4511236864.20>
+                    Button, 0x111beb200, {{385.2, 36.0}, {87.0, 36.0}}, identifier: 'square.stack.3d.up', label: 'Library', Selected <AX element pid: 69690, elementOrHash.elementID: 4392684544.25>
+                  Button, 0x111beb480, {{472.2, 36.0}, {95.0, 36.0}}, identifier: 'calendar', label: 'Training' <AX element pid: 69690, elementOrHash.elementID: 4511237632.21>
+                    Button, 0x111bea940, {{472.2, 36.0}, {95.0, 36.0}}, identifier: 'calendar', label: 'Training' <AX element pid: 69690, elementOrHash.elementID: 4392687104.26>
+                  Button, 0x111bebac0, {{567.2, 36.0}, {158.0, 36.0}}, identifier: 'person.2', label: 'Team & settings' <AX element pid: 69690, elementOrHash.elementID: 4511238400.22>
+                    Button, 0x111beb980, {{567.2, 36.0}, {158.0, 36.0}}, identifier: 'person.2', label: 'Team & settings' <AX element pid: 69690, elementOrHash.elementID: 4392689664.27>
+  Window, 0x111beb840, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4522658304.5>
+    Other, 0x111bebd40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392495104.8>
+      Other, 0x111beae40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 69690, elementOrHash.elementID: 4392496128.10>

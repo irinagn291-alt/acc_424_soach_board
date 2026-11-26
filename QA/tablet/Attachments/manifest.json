@@ -1,0 +1,128 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "E5F5B26C-78BC-4F79-912D-D0BB23265CCB.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-sequence_0_7EB368F3-150D-4256-88C4-9F75F882A31A.png",
+        "timestamp" : 1794739317.749
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "3F2EF36A-692E-4C5D-9CAE-D4C93CAA1A95.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-board_0_0AC66668-6438-4EE2-9C63-81D036A7FAD6.png",
+        "timestamp" : 1794739299.16
+      }
+    ],
+    "testIdentifier" : "ZbJourney/test01EditAndPersist()",
+    "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test01EditAndPersist"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "571192EF-D053-4B25-890F-3EE24F0F48EE.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-training_0_02B53100-5095-424B-8DAA-84C81BCBF1FD.png",
+        "timestamp" : 1794739336.82
+      }
+    ],
+    "testIdentifier" : "ZbJourney/test02Training()",
+    "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test02Training"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "B5EF723E-4528-4DBA-821D-708031D7053E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "06-offline-team_0_56AD4742-4AF1-4FC7-89E5-6275FC042A47.png",
+        "timestamp" : 1794739359.439
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "5DBDFE99-2616-4562-A0B5-4B3FA3304C2A.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "05-library_0_52C068F4-1C58-4910-9F71-D2BADA30A1C7.png",
+        "timestamp" : 1794739355.729
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "AA8BEC33-F510-4C1C-9550-6AB7CE7DECBF.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-basketball_0_A2313BFE-5E9B-4E83-8DE3-BB54AB8A2B51.png",
+        "timestamp" : 1794739352.81
+      }
+    ],
+    "testIdentifier" : "ZbJourney/test03SportsLibraryAndOffline()",
+    "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test03SportsLibraryAndOffline"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "87DAF7CC-61AC-4D1A-AFF3-FC76F6776119.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "07-pdf-sharing_0_0FC815C5-98AC-45CD-BF8A-DCF63DBFC70A.png",
+        "timestamp" : 1794739377.601
+      }
+    ],
+    "testIdentifier" : "ZbJourney/test04PDF()",
+    "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test04PDF"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "C0B5D186-2263-4F0B-B732-B8D980822991.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "09-widget-large-lock_0_85B59BB8-1901-4485-BFCF-245A73A80FCD.png",
+        "timestamp" : 1794739387.837
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "9F4F24CB-D348-4414-A116-ED53C596E200.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "08-widget-small-medium_0_BB0888E9-F19C-4EA3-A098-77771EFEC7D3.png",
+        "timestamp" : 1794739386.494
+      }
+    ],
+    "testIdentifier" : "ZbJourney/test05Widgets()",
+    "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test05Widgets"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "CF26FF78-BD75-470C-8F42-11EAC20FB97D",
+        "deviceName" : "GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5)",
+        "exportedFileName" : "1D9A04B0-B685-42AA-88E3-F9FE47A87923.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "10-notification-denial_0_B03EDF08-3622-4F1A-8C68-3909FFC6D689.png",
+        "timestamp" : 1794739399.386
+      }
+    ],
+    "testIdentifier" : "ZbJourney/test06NotificationDenial()",
+    "testIdentifierURL" : "test://com.apple.xcode/ChalkOrbit/BoardJourney/ZbJourney/test06NotificationDenial"
+  }
+]

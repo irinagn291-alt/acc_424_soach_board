@@ -1,0 +1,10 @@
+{
+  "checks" : [
+    "Six bundled exercises: unique frames, stable players, real movement, valid coordinates, lossless JSON",
+    "Animation: exact start, known midpoint and exact finish",
+    "Training: past\/completed excluded; earliest future selected; empty plan stays empty",
+    "Local archive roundtrip preserves selection and every tactic"
+  ],
+  "passed" : true,
+  "scope" : "Host-side shared Swift model; device UI tests run separately through simulator_pool"
+}

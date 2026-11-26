@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "scope": "Host rendering of original system widget views, plus native iOS gallery views on iPhone and iPad.",
+  "fixtures": "Clearly labelled QA training sessions; none are bundled into the application.",
+  "reviewed": [
+    "small.png",
+    "medium.png",
+    "large.png",
+    "large-empty-plan.png"
+  ],
+  "findingsResolved": [
+    "Marker and line scaling in thumbnails",
+    "Medium court aspect ratio",
+    "Large single-tactic aspect ratio"
+  ],
+  "remainingDeviceChecks": [
+    "System Home Screen and Lock Screen pinning was not automated; accessoryInline and accessoryCircular compiled, without system-host visual QA."
+  ],
+  "nativeGalleryReviewed": [
+    "systemSmall",
+    "systemMedium",
+    "systemLarge",
+    "accessoryRectangular"
+  ]
+}

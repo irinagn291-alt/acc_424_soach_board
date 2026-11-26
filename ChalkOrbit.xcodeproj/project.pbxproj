@@ -1,0 +1,610 @@
+// !$*UTF8*$!
+{
+archiveVersion = 1;
+classes = {
+};
+objectVersion = 56;
+objects = {
+AE5BB6B110304109828ECF6D = {
+isa = "PBXFileReference";
+lastKnownFileType = "sourcecode.swift";
+path = "ChalkKernel.swift";
+sourceTree = "<group>";
+};
+6F2946A2882D47CAABCD7427 = {
+isa = "PBXFileReference";
+lastKnownFileType = "sourcecode.swift";
+path = "PocketArchive.swift";
+sourceTree = "<group>";
+};
+111DAA263E8B47A8B774D867 = {
+isa = "PBXFileReference";
+lastKnownFileType = "sourcecode.swift";
+path = "TouchDesk.swift";
+sourceTree = "<group>";
+};
+B3D1D0B5C12D43B4A9755F74 = {
+isa = "PBXFileReference";
+lastKnownFileType = "sourcecode.swift";
+path = "SessionShelf.swift";
+sourceTree = "<group>";
+};
+1D55CD39B8A3459680888CB6 = {
+isa = "PBXFileReference";
+lastKnownFileType = "sourcecode.swift";
+path = "BoardGlance.swift";
+sourceTree = "<group>";
+};
+983471DC48174A82B92894B5 = {
+isa = "PBXFileReference";
+lastKnownFileType = "sourcecode.swift";
+path = "BoardJourney.swift";
+sourceTree = "<group>";
+};
+1E9BA35A79634B31B8F06DA8 = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.json.xcstrings";
+path = "Localizable.xcstrings";
+sourceTree = "<group>";
+};
+0010A21DDE6F40ED9F2CC8C9 = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.json.xcstrings";
+path = "InfoPlist.xcstrings";
+sourceTree = "<group>";
+};
+12D7431BF84C49519F9AB232 = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.plist.xml";
+path = "PrivacyInfo.xcprivacy";
+sourceTree = "<group>";
+};
+552F29B1B3264A6590CE7F12 = {
+isa = "PBXFileReference";
+lastKnownFileType = "folder.assetcatalog";
+path = "OrbitMarks.xcassets";
+sourceTree = "<group>";
+};
+312CE3647A734579A2B17442 = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.plist.xml";
+path = "BoardInfo.plist";
+sourceTree = "<group>";
+};
+6B9A70035BD3427F9008B470 = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.plist.xml";
+path = "GlanceInfo.plist";
+sourceTree = "<group>";
+};
+91E0481A6A7E4C6DA0630DA8 = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.plist.entitlements";
+path = "BoardRights.entitlements";
+sourceTree = "<group>";
+};
+E0E35F5755DC4C08882DB6FB = {
+isa = "PBXFileReference";
+lastKnownFileType = "text.plist.entitlements";
+path = "GlanceRights.entitlements";
+sourceTree = "<group>";
+};
+3BAB8976DC2C44F6BBF48982 = {
+isa = "PBXGroup";
+children = ("DEF43F6821784DC681632FA8","A7FF3D7CACE04FE59918371A","A85F66A8A2784B3E854B6312");
+name = "Products";
+sourceTree = "<group>";
+};
+EB039851F284474FA79F7FD5 = {
+isa = "PBXGroup";
+children = ("AE5BB6B110304109828ECF6D","6F2946A2882D47CAABCD7427","111DAA263E8B47A8B774D867","B3D1D0B5C12D43B4A9755F74","1D55CD39B8A3459680888CB6","983471DC48174A82B92894B5","1E9BA35A79634B31B8F06DA8","0010A21DDE6F40ED9F2CC8C9","12D7431BF84C49519F9AB232","552F29B1B3264A6590CE7F12","312CE3647A734579A2B17442","6B9A70035BD3427F9008B470","91E0481A6A7E4C6DA0630DA8","E0E35F5755DC4C08882DB6FB");
+path = "CoachBoard";
+sourceTree = "<group>";
+};
+72720AE44D49435AA8B6A439 = {
+isa = "PBXGroup";
+children = ("EB039851F284474FA79F7FD5","3BAB8976DC2C44F6BBF48982");
+sourceTree = "<group>";
+};
+ABA2988FCF5B4A9DB1BB6D02 = {
+isa = "XCBuildConfiguration";
+name = "Workshop";
+buildSettings = {
+CLANG_ENABLE_MODULES = "YES";
+SWIFT_VERSION = "5.0";
+SDKROOT = "iphoneos";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+ENABLE_USER_SCRIPT_SANDBOXING = "YES";
+CLANG_ANALYZER_NONNULL = "YES";
+GCC_WARN_UNUSED_VARIABLE = "YES";
+SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited) ";
+ENABLE_TESTABILITY = "YES";
+};
+};
+BEFA5FBDCFD24BF5B526E257 = {
+isa = "XCBuildConfiguration";
+name = "FieldRelease";
+buildSettings = {
+CLANG_ENABLE_MODULES = "YES";
+SWIFT_VERSION = "5.0";
+SDKROOT = "iphoneos";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+ENABLE_USER_SCRIPT_SANDBOXING = "YES";
+CLANG_ANALYZER_NONNULL = "YES";
+GCC_WARN_UNUSED_VARIABLE = "YES";
+SWIFT_COMPILATION_MODE = "wholemodule";
+SWIFT_OPTIMIZATION_LEVEL = "-O";
+GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+};
+};
+8B1853A69A994A50A020C023 = {
+isa = "XCConfigurationList";
+buildConfigurations = ("ABA2988FCF5B4A9DB1BB6D02","BEFA5FBDCFD24BF5B526E257");
+defaultConfigurationIsVisible = 0;
+defaultConfigurationName = "Workshop";
+};
+8FB6DB60449B492CBB8FFE39 = {
+isa = "PBXProject";
+attributes = {
+LastUpgradeCheck = "2720";
+ORGANIZATIONNAME = "Chalk Orbit Workshop";
+TargetAttributes = {
+81ECAB05D55C4F6EAF13D52F = {
+CreatedOnToolsVersion = "27.2";
+SystemCapabilities = {
+com.apple.ApplicationGroups.iOS = {
+enabled = 1;
+};
+
+com.apple.Push = {
+enabled = 1;
+};
+};
+};
+AF74BE1133594FB79FC8DA0F = {
+CreatedOnToolsVersion = "27.2";
+};
+47AD515719FD46A5806BE37F = {
+CreatedOnToolsVersion = "27.2";
+TestTargetID = "81ECAB05D55C4F6EAF13D52F";
+};
+};
+};
+buildConfigurationList = "8B1853A69A994A50A020C023";
+compatibilityVersion = "Xcode 14.0";
+developmentRegion = "en";
+hasScannedForEncodings = 0;
+knownRegions = ("en","de","es","it","pt-BR","el","Base");
+mainGroup = "72720AE44D49435AA8B6A439";
+productRefGroup = "3BAB8976DC2C44F6BBF48982";
+projectDirPath = "";
+projectRoot = "";
+targets = ("81ECAB05D55C4F6EAF13D52F","AF74BE1133594FB79FC8DA0F","47AD515719FD46A5806BE37F");
+};
+DEF43F6821784DC681632FA8 = {
+isa = "PBXFileReference";
+explicitFileType = "wrapper.application";
+includeInIndex = 0;
+path = "ChalkOrbit.app";
+sourceTree = "BUILT_PRODUCTS_DIR";
+};
+F38E6004F32245B3A20A68A5 = {
+isa = "XCBuildConfiguration";
+name = "Workshop";
+buildSettings = {
+	INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+SWIFT_VERSION = "5.0";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+CODE_SIGN_STYLE = "Automatic";
+MARKETING_VERSION = "1.2.6";
+CURRENT_PROJECT_VERSION = "162";
+SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+SUPPORTS_MACCATALYST = "NO";
+SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = "NO";
+SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = "NO";
+OTHER_SWIFT_FLAGS = ("$(inherited)","-debug-prefix-map","$(PROJECT_DIR)=.","-file-prefix-map","$(PROJECT_DIR)=.");
+SWIFT_EMIT_LOC_STRINGS = "YES";
+LOCALIZATION_PREFERS_STRING_CATALOGS = "YES";
+GENERATE_INFOPLIST_FILE = "NO";
+LD_RUNPATH_SEARCH_PATHS = ("$(inherited)","@executable_path/Frameworks");
+PRODUCT_BUNDLE_IDENTIFIER = "com.coachboard.app-c977830d8707";
+INFOPLIST_FILE = "CoachBoard/BoardInfo.plist";
+CODE_SIGN_ENTITLEMENTS = "CoachBoard/BoardRights.entitlements";
+ASSETCATALOG_COMPILER_APPICON_NAME = "OrbitIcon";
+PRODUCT_NAME = "$(TARGET_NAME)";
+SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited) ";
+ENABLE_TESTABILITY = "YES";
+};
+};
+AE5A34D43A494A80AB644361 = {
+isa = "XCBuildConfiguration";
+name = "FieldRelease";
+buildSettings = {
+	INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+SWIFT_VERSION = "5.0";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+CODE_SIGN_STYLE = "Automatic";
+MARKETING_VERSION = "1.2.6";
+CURRENT_PROJECT_VERSION = "162";
+SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+SUPPORTS_MACCATALYST = "NO";
+SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = "NO";
+SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = "NO";
+OTHER_SWIFT_FLAGS = ("$(inherited)","-debug-prefix-map","$(PROJECT_DIR)=.","-file-prefix-map","$(PROJECT_DIR)=.");
+SWIFT_EMIT_LOC_STRINGS = "YES";
+LOCALIZATION_PREFERS_STRING_CATALOGS = "YES";
+GENERATE_INFOPLIST_FILE = "NO";
+LD_RUNPATH_SEARCH_PATHS = ("$(inherited)","@executable_path/Frameworks");
+PRODUCT_BUNDLE_IDENTIFIER = "com.coachboard.app-c977830d8707";
+INFOPLIST_FILE = "CoachBoard/BoardInfo.plist";
+CODE_SIGN_ENTITLEMENTS = "CoachBoard/BoardRights.entitlements";
+ASSETCATALOG_COMPILER_APPICON_NAME = "OrbitIcon";
+PRODUCT_NAME = "$(TARGET_NAME)";
+SWIFT_COMPILATION_MODE = "wholemodule";
+SWIFT_OPTIMIZATION_LEVEL = "-O";
+GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+};
+};
+511325C3857C43B0A06C4694 = {
+isa = "XCConfigurationList";
+buildConfigurations = ("F38E6004F32245B3A20A68A5","AE5A34D43A494A80AB644361");
+defaultConfigurationIsVisible = 0;
+defaultConfigurationName = "Workshop";
+};
+269ABFEADB7448A28F344183 = {
+isa = "PBXBuildFile";
+fileRef = "AE5BB6B110304109828ECF6D";
+};
+444FDEAA8DF04F89B9B631AF = {
+isa = "PBXBuildFile";
+fileRef = "6F2946A2882D47CAABCD7427";
+};
+1D973FD43631424C8047B3AD = {
+isa = "PBXBuildFile";
+fileRef = "111DAA263E8B47A8B774D867";
+};
+FD27766D8F034696A9000CD5 = {
+isa = "PBXBuildFile";
+fileRef = "B3D1D0B5C12D43B4A9755F74";
+};
+4018F31847CE4604828AE718 = {
+isa = "PBXBuildFile";
+fileRef = "1D55CD39B8A3459680888CB6";
+};
+57CB6CF987CA4799AE14F40F = {
+isa = "PBXSourcesBuildPhase";
+buildActionMask = 2147483647;
+files = ("269ABFEADB7448A28F344183","444FDEAA8DF04F89B9B631AF","1D973FD43631424C8047B3AD","FD27766D8F034696A9000CD5","4018F31847CE4604828AE718");
+runOnlyForDeploymentPostprocessing = 0;
+};
+3E237AB3AD8C41449DF2712E = {
+isa = "PBXFrameworksBuildPhase";
+buildActionMask = 2147483647;
+files = ();
+runOnlyForDeploymentPostprocessing = 0;
+};
+66E3ED96190A4206AAABC7F7 = {
+isa = "PBXBuildFile";
+fileRef = "1E9BA35A79634B31B8F06DA8";
+};
+AF50B83298D74F189B97D731 = {
+isa = "PBXBuildFile";
+fileRef = "0010A21DDE6F40ED9F2CC8C9";
+};
+98895F22D3FE404395E69317 = {
+isa = "PBXBuildFile";
+fileRef = "12D7431BF84C49519F9AB232";
+};
+F7849E4A86D24A4EB104AA6C = {
+isa = "PBXBuildFile";
+fileRef = "552F29B1B3264A6590CE7F12";
+};
+F5204BCFD29642BC8016B68A = {
+isa = "PBXResourcesBuildPhase";
+buildActionMask = 2147483647;
+files = ("66E3ED96190A4206AAABC7F7","AF50B83298D74F189B97D731","98895F22D3FE404395E69317","F7849E4A86D24A4EB104AA6C");
+runOnlyForDeploymentPostprocessing = 0;
+};
+81ECAB05D55C4F6EAF13D52F = {
+isa = "PBXNativeTarget";
+buildConfigurationList = "511325C3857C43B0A06C4694";
+buildPhases = ("57CB6CF987CA4799AE14F40F","3E237AB3AD8C41449DF2712E","F5204BCFD29642BC8016B68A","B9DE857D905547AB8DFA1D26");
+buildRules = ();
+dependencies = ("073CA3B6D1FA44478CF75E8E");
+name = "ChalkOrbit";
+productName = "ChalkOrbit";
+productReference = "DEF43F6821784DC681632FA8";
+productType = "com.apple.product-type.application";
+};
+A7FF3D7CACE04FE59918371A = {
+isa = "PBXFileReference";
+explicitFileType = "wrapper.app-extension";
+includeInIndex = 0;
+path = "TouchlineGlance.appex";
+sourceTree = "BUILT_PRODUCTS_DIR";
+};
+ADAC4E9ECEF64CB183EFDAEF = {
+isa = "XCBuildConfiguration";
+name = "Workshop";
+buildSettings = {
+SWIFT_VERSION = "5.0";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+CODE_SIGN_STYLE = "Automatic";
+MARKETING_VERSION = "1.2.6";
+CURRENT_PROJECT_VERSION = "162";
+SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+SUPPORTS_MACCATALYST = "NO";
+SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = "NO";
+SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = "NO";
+OTHER_SWIFT_FLAGS = ("$(inherited)","-debug-prefix-map","$(PROJECT_DIR)=.","-file-prefix-map","$(PROJECT_DIR)=.");
+SWIFT_EMIT_LOC_STRINGS = "YES";
+LOCALIZATION_PREFERS_STRING_CATALOGS = "YES";
+GENERATE_INFOPLIST_FILE = "NO";
+LD_RUNPATH_SEARCH_PATHS = ("$(inherited)","@executable_path/Frameworks","@executable_path/../../Frameworks");
+PRODUCT_BUNDLE_IDENTIFIER = "com.coachboard.app-c977830d8707.glance";
+INFOPLIST_FILE = "CoachBoard/GlanceInfo.plist";
+CODE_SIGN_ENTITLEMENTS = "CoachBoard/GlanceRights.entitlements";
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited) ZB_WIDGET";
+APPLICATION_EXTENSION_API_ONLY = "YES";
+SKIP_INSTALL = "YES";
+PRODUCT_NAME = "$(TARGET_NAME)";
+SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+ENABLE_TESTABILITY = "YES";
+};
+};
+B0670797B6B74AF38854D03B = {
+isa = "XCBuildConfiguration";
+name = "FieldRelease";
+buildSettings = {
+SWIFT_VERSION = "5.0";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+CODE_SIGN_STYLE = "Automatic";
+MARKETING_VERSION = "1.2.6";
+CURRENT_PROJECT_VERSION = "162";
+SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+SUPPORTS_MACCATALYST = "NO";
+SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = "NO";
+SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = "NO";
+OTHER_SWIFT_FLAGS = ("$(inherited)","-debug-prefix-map","$(PROJECT_DIR)=.","-file-prefix-map","$(PROJECT_DIR)=.");
+SWIFT_EMIT_LOC_STRINGS = "YES";
+LOCALIZATION_PREFERS_STRING_CATALOGS = "YES";
+GENERATE_INFOPLIST_FILE = "NO";
+LD_RUNPATH_SEARCH_PATHS = ("$(inherited)","@executable_path/Frameworks","@executable_path/../../Frameworks");
+PRODUCT_BUNDLE_IDENTIFIER = "com.coachboard.app-c977830d8707.glance";
+INFOPLIST_FILE = "CoachBoard/GlanceInfo.plist";
+CODE_SIGN_ENTITLEMENTS = "CoachBoard/GlanceRights.entitlements";
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = "ZB_WIDGET";
+APPLICATION_EXTENSION_API_ONLY = "YES";
+SKIP_INSTALL = "YES";
+PRODUCT_NAME = "$(TARGET_NAME)";
+SWIFT_COMPILATION_MODE = "wholemodule";
+SWIFT_OPTIMIZATION_LEVEL = "-O";
+GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+};
+};
+CEECDAF9ED444B798F6DB9F7 = {
+isa = "XCConfigurationList";
+buildConfigurations = ("ADAC4E9ECEF64CB183EFDAEF","B0670797B6B74AF38854D03B");
+defaultConfigurationIsVisible = 0;
+defaultConfigurationName = "Workshop";
+};
+6ADEBC3C113B46EFBB3797A5 = {
+isa = "PBXBuildFile";
+fileRef = "AE5BB6B110304109828ECF6D";
+};
+819606E71D50463D8EDD201E = {
+isa = "PBXBuildFile";
+fileRef = "1D55CD39B8A3459680888CB6";
+};
+BAB6F0B61837491A905C3288 = {
+isa = "PBXSourcesBuildPhase";
+buildActionMask = 2147483647;
+files = ("6ADEBC3C113B46EFBB3797A5","819606E71D50463D8EDD201E");
+runOnlyForDeploymentPostprocessing = 0;
+};
+A27762168AC044E984716572 = {
+isa = "PBXFrameworksBuildPhase";
+buildActionMask = 2147483647;
+files = ();
+runOnlyForDeploymentPostprocessing = 0;
+};
+2B3FF18E6D7A42CA9321FC4F = {
+isa = "PBXBuildFile";
+fileRef = "1E9BA35A79634B31B8F06DA8";
+};
+FE93D4CE606C42E2863E02C6 = {
+isa = "PBXBuildFile";
+fileRef = "0010A21DDE6F40ED9F2CC8C9";
+};
+833CD2D89E64496EA0753682 = {
+isa = "PBXBuildFile";
+fileRef = "12D7431BF84C49519F9AB232";
+};
+C7C3BE6A9A3D4ABDBC9F4BD1 = {
+isa = "PBXResourcesBuildPhase";
+buildActionMask = 2147483647;
+files = ("2B3FF18E6D7A42CA9321FC4F","FE93D4CE606C42E2863E02C6","833CD2D89E64496EA0753682");
+runOnlyForDeploymentPostprocessing = 0;
+};
+AF74BE1133594FB79FC8DA0F = {
+isa = "PBXNativeTarget";
+buildConfigurationList = "CEECDAF9ED444B798F6DB9F7";
+buildPhases = ("BAB6F0B61837491A905C3288","A27762168AC044E984716572","C7C3BE6A9A3D4ABDBC9F4BD1");
+buildRules = ();
+dependencies = ();
+name = "TouchlineGlance";
+productName = "TouchlineGlance";
+productReference = "A7FF3D7CACE04FE59918371A";
+productType = "com.apple.product-type.app-extension";
+};
+A85F66A8A2784B3E854B6312 = {
+isa = "PBXFileReference";
+explicitFileType = "wrapper.cfbundle";
+includeInIndex = 0;
+path = "BoardJourney.xctest";
+sourceTree = "BUILT_PRODUCTS_DIR";
+};
+E96E680CC46947048A06F5AB = {
+isa = "XCBuildConfiguration";
+name = "Workshop";
+buildSettings = {
+SWIFT_VERSION = "5.0";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+CODE_SIGN_STYLE = "Automatic";
+MARKETING_VERSION = "1.2.6";
+CURRENT_PROJECT_VERSION = "162";
+SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+SUPPORTS_MACCATALYST = "NO";
+SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = "NO";
+SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = "NO";
+OTHER_SWIFT_FLAGS = ("$(inherited)","-debug-prefix-map","$(PROJECT_DIR)=.","-file-prefix-map","$(PROJECT_DIR)=.");
+SWIFT_EMIT_LOC_STRINGS = "NO";
+LOCALIZATION_PREFERS_STRING_CATALOGS = "YES";
+GENERATE_INFOPLIST_FILE = "YES";
+LD_RUNPATH_SEARCH_PATHS = ("$(inherited)","@executable_path/Frameworks");
+PRODUCT_BUNDLE_IDENTIFIER = "com.coachboard.app-c977830d8707.journey";
+TEST_TARGET_NAME = "ChalkOrbit";
+CODE_SIGN_ENTITLEMENTS = "";
+INFOPLIST_KEY_CFBundleDisplayName = "Board Journey";
+PRODUCT_NAME = "$(TARGET_NAME)";
+SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited) ";
+ENABLE_TESTABILITY = "YES";
+};
+};
+F3DB7C91F10942649E59AD5C = {
+isa = "XCBuildConfiguration";
+name = "FieldRelease";
+buildSettings = {
+SWIFT_VERSION = "5.0";
+IPHONEOS_DEPLOYMENT_TARGET = "17.4";
+TARGETED_DEVICE_FAMILY = "1,2";
+CODE_SIGN_STYLE = "Automatic";
+MARKETING_VERSION = "1.2.6";
+CURRENT_PROJECT_VERSION = "162";
+SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+SUPPORTS_MACCATALYST = "NO";
+SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = "NO";
+SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = "NO";
+OTHER_SWIFT_FLAGS = ("$(inherited)","-debug-prefix-map","$(PROJECT_DIR)=.","-file-prefix-map","$(PROJECT_DIR)=.");
+SWIFT_EMIT_LOC_STRINGS = "NO";
+LOCALIZATION_PREFERS_STRING_CATALOGS = "YES";
+GENERATE_INFOPLIST_FILE = "YES";
+LD_RUNPATH_SEARCH_PATHS = ("$(inherited)","@executable_path/Frameworks");
+PRODUCT_BUNDLE_IDENTIFIER = "com.coachboard.app-c977830d8707.journey";
+TEST_TARGET_NAME = "ChalkOrbit";
+CODE_SIGN_ENTITLEMENTS = "";
+INFOPLIST_KEY_CFBundleDisplayName = "Board Journey";
+PRODUCT_NAME = "$(TARGET_NAME)";
+SWIFT_COMPILATION_MODE = "wholemodule";
+SWIFT_OPTIMIZATION_LEVEL = "-O";
+GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+DEBUG_INFORMATION_FORMAT = "dwarf";
+SWIFT_SERIALIZE_DEBUGGING_OPTIONS = "NO";
+};
+};
+910E15EB4A1445BEBEABF2D6 = {
+isa = "XCConfigurationList";
+buildConfigurations = ("E96E680CC46947048A06F5AB","F3DB7C91F10942649E59AD5C");
+defaultConfigurationIsVisible = 0;
+defaultConfigurationName = "Workshop";
+};
+39412DEF2D46474FACAA5D6F = {
+isa = "PBXBuildFile";
+fileRef = "983471DC48174A82B92894B5";
+};
+A20636D886784272A55FECB2 = {
+isa = "PBXSourcesBuildPhase";
+buildActionMask = 2147483647;
+files = ("39412DEF2D46474FACAA5D6F");
+runOnlyForDeploymentPostprocessing = 0;
+};
+FE23BA560BB44358BFD88185 = {
+isa = "PBXFrameworksBuildPhase";
+buildActionMask = 2147483647;
+files = ();
+runOnlyForDeploymentPostprocessing = 0;
+};
+CBDE29E4DA6546A598998F5B = {
+isa = "PBXResourcesBuildPhase";
+buildActionMask = 2147483647;
+files = ();
+runOnlyForDeploymentPostprocessing = 0;
+};
+47AD515719FD46A5806BE37F = {
+isa = "PBXNativeTarget";
+buildConfigurationList = "910E15EB4A1445BEBEABF2D6";
+buildPhases = ("A20636D886784272A55FECB2","FE23BA560BB44358BFD88185","CBDE29E4DA6546A598998F5B");
+buildRules = ();
+dependencies = ("29385FE69A214C04AF4A6757");
+name = "BoardJourney";
+productName = "BoardJourney";
+productReference = "A85F66A8A2784B3E854B6312";
+productType = "com.apple.product-type.bundle.ui-testing";
+};
+9D3A374A8B2143B59DA8DD9F = {
+isa = "PBXContainerItemProxy";
+containerPortal = "8FB6DB60449B492CBB8FFE39";
+proxyType = 1;
+remoteGlobalIDString = "AF74BE1133594FB79FC8DA0F";
+remoteInfo = "TouchlineGlance";
+};
+073CA3B6D1FA44478CF75E8E = {
+isa = "PBXTargetDependency";
+target = "AF74BE1133594FB79FC8DA0F";
+targetProxy = "9D3A374A8B2143B59DA8DD9F";
+};
+CB8BF4E3C5934206AD3C444D = {
+isa = "PBXContainerItemProxy";
+containerPortal = "8FB6DB60449B492CBB8FFE39";
+proxyType = 1;
+remoteGlobalIDString = "81ECAB05D55C4F6EAF13D52F";
+remoteInfo = "ChalkOrbit";
+};
+29385FE69A214C04AF4A6757 = {
+isa = "PBXTargetDependency";
+target = "81ECAB05D55C4F6EAF13D52F";
+targetProxy = "CB8BF4E3C5934206AD3C444D";
+};
+28396E957F4E4EB6803692EA = {
+isa = "PBXBuildFile";
+fileRef = "A7FF3D7CACE04FE59918371A";
+settings = {
+ATTRIBUTES = ("RemoveHeadersOnCopy");
+};
+};
+B9DE857D905547AB8DFA1D26 = {
+isa = "PBXCopyFilesBuildPhase";
+buildActionMask = 2147483647;
+dstPath = "";
+dstSubfolderSpec = 13;
+files = ("28396E957F4E4EB6803692EA");
+name = "Embed Glance";
+runOnlyForDeploymentPostprocessing = 0;
+};
+};
+rootObject = "8FB6DB60449B492CBB8FFE39";
+}

@@ -1,0 +1,13 @@
+{
+  "checks" : [
+    "Atomic save and cold reload",
+    "Full tactic undo and redo",
+    "Corruption recovery from actual backup file",
+    "Invalid geometry, shape kinds and duplicate identities rejected",
+    "Malformed and oversized imports preserve the library",
+    "Portable JSON import creates an independent local tactic and clears foreign ownership",
+    "Revoked tactics repair the selection, frame and training references"
+  ],
+  "passed" : true,
+  "scope" : "Actual shared archive code on host, isolated QA storage, widget services disabled; iOS file protection and device UI are outside this host check"
+}

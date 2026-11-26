@@ -1,0 +1,34 @@
+17:37:19.865 xcodebuild[74703:8110431] Sim GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17: Unregistering for sim device notification with token 3
+17:37:19.865 xcodebuild[74703:8110431] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+17:37:19.868 xcodebuild[74703:8110431] Sim GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17 has testmanagerd socket at /private/var/tmp/com.apple.launchd.EI8IntFO5T/com.apple.testmanagerd.unix-domain.socket
+17:37:19.868 xcodebuild[74703:8110431] Validating test connection socket path (/private/var/tmp/com.apple.launchd.EI8IntFO5T/com.apple.testmanagerd.unix-domain.socket)
+17:37:19.868 xcodebuild[74703:8110431] Constructing transport for test connection socket
+17:37:19.868 xcodebuild[74703:8110431] Connected socket 28 to testmanagerd for Sim GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17
+17:37:19.868 xcodebuild[74703:8110431] Initiating control session with IDE capabilities: <XCTCapabilities: 0x7c71a1c320>: {
+    "report crashes capability" = 3;
+}
+17:37:21.529 xcodebuild[74703:8110657] Got reply to control session initiation request (result:error): <XCTCapabilities: 0x7c72e965b0>: {
+    "authorize test session capability" = 1;
+    "automation mode" = 1;
+    "initiate daemon control session capability" = 4;
+    "initiate test runner session capability" = 2;
+    "record UI interaction capability" = 2;
+    "recording events as source code" = 1;
+    "request log archive capability" = 1;
+    "structured results configuration" = 1;
+    "supports delayed attachment transfers" = 1;
+}: (null)
+17:37:21.530 xcodebuild[74703:8110654] Requesting crash report collection for process names: ChalkOrbit, backboardd, xctest, assertiond, runningboardd, DTServiceHub, SpringBoard, FrontBoard, testmanagerd, TouchlineGlance, debugserver, BoardJourney-Runner
+17:37:29.951 xcodebuild[74703:8110696] Requesting authorization for pid 75204
+17:37:29.952 xcodebuild[74703:8110693] Got reply to authorization request for pid 75204 (result:error): 1: (null)
+17:40:13.353 xcodebuild[74703:8110693] <XCTDaemonControlSession: 0x7c7261b110> lost connection to daemon
+17:40:15.633 xcodebuild[74703:8110697] Got a sim device notification for GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17: {
+    notification = "availableDevices_changed";
+}
+17:40:15.633 xcodebuild[74703:8110697] Got a sim device notification for GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17: {
+    device = "GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17 (B8B6C807-02A2-468E-887E-3D9D05842D07, iOS 27.2, Shutdown)";
+    "new_state" = 1;
+    notification = "device_state";
+    "prev_state" = 4;
+}
+17:40:15.633 xcodebuild[74703:8110697] Sim GF isolated manual-qa bff138e94fdf4fadb4279b802bcb46c7 iPhone 17 state changed to 1

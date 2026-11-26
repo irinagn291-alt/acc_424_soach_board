@@ -1,0 +1,255 @@
+Monitoring boot status for GF isolated manual-qa 10654bb9d981429284b02114b0a637a8 iPhone 17 (A140E586-DAA7-4C01-9015-6B239D54E5F3).
+[2026-11-15 10:38:05 +0000] Status=1, isTerminal=NO, Elapsed=00:01.
+	Waiting on BackBoard
+
+[2026-11-15 10:38:06 +0000] Status=2, isTerminal=NO, Elapsed=00:01.
+	Waiting on Data Migration
+		Reason:(null)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 10:38:06 +0000] Status=2, isTerminal=NO, Elapsed=00:02.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 10:38:07 +0000] Status=2, isTerminal=NO, Elapsed=00:03.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:01 seconds
+
+[2026-11-15 10:38:08 +0000] Status=2, isTerminal=NO, Elapsed=00:04.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:02 seconds
+
+[2026-11-15 10:38:09 +0000] Status=2, isTerminal=NO, Elapsed=00:05.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:03 seconds
+
+[2026-11-15 10:38:10 +0000] Status=2, isTerminal=NO, Elapsed=00:06.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:04 seconds
+
+[2026-11-15 10:38:11 +0000] Status=2, isTerminal=NO, Elapsed=00:07.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:05 seconds
+
+[2026-11-15 10:38:12 +0000] Status=2, isTerminal=NO, Elapsed=00:08.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:06 seconds
+
+[2026-11-15 10:38:13 +0000] Status=2, isTerminal=NO, Elapsed=00:09.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:07 seconds
+
+[2026-11-15 10:38:14 +0000] Status=2, isTerminal=NO, Elapsed=00:10.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:08 seconds
+
+[2026-11-15 10:38:15 +0000] Status=2, isTerminal=NO, Elapsed=00:11.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:09 seconds
+
+[2026-11-15 10:38:16 +0000] Status=2, isTerminal=NO, Elapsed=00:12.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:10 seconds
+
+[2026-11-15 10:38:17 +0000] Status=2, isTerminal=NO, Elapsed=00:13.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:11 seconds
+
+[2026-11-15 10:38:18 +0000] Status=2, isTerminal=NO, Elapsed=00:14.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:12 seconds
+
+[2026-11-15 10:38:19 +0000] Status=2, isTerminal=NO, Elapsed=00:15.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:13 seconds
+
+[2026-11-15 10:38:20 +0000] Status=2, isTerminal=NO, Elapsed=00:16.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.managedconfiguration.migrator (MCProfile.migrator, user-agnostic)
+		Migration Elapsed:00:14 seconds
+
+[2026-11-15 10:38:21 +0000] Status=2, isTerminal=NO, Elapsed=00:17.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:15 seconds
+
+[2026-11-15 10:38:22 +0000] Status=2, isTerminal=NO, Elapsed=00:18.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:16 seconds
+
+[2026-11-15 10:38:23 +0000] Status=2, isTerminal=NO, Elapsed=00:19.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.PreferencesMigrator (PreferencesMigrator.migrator)
+		Migration Elapsed:00:17 seconds
+
+[2026-11-15 10:38:24 +0000] Status=4294967295, isTerminal=YES, Elapsed=00:20.
+	Finished
+
+An error was encountered processing the command (domain=NSPOSIXErrorDomain, code=3):
+Simulator device failed to terminate tools.chalkorbit.board672.
+found nothing to terminate
+Underlying error (domain=NSPOSIXErrorDomain, code=3):
+	The request to terminate "tools.chalkorbit.board672" failed. found nothing to terminate
+	found nothing to terminate
+tools.chalkorbit.board672: 47456
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/board.png
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/training.png
+tools.chalkorbit.board672: 47551
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/board-de.png
+tools.chalkorbit.board672: 47580
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/board-es.png
+tools.chalkorbit.board672: 47619
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/board-it.png
+tools.chalkorbit.board672: 47657
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/board-pt-BR.png
+tools.chalkorbit.board672: 47688
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 0D24A99E-BAEE-41D0-BCFD-86D003FE07FE (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/phone/board-el.png
+Monitoring boot status for GF isolated manual-qa 37d578a3b299446f958e47e294525bc6 iPad Pro 13-inch (M5) (CF26FF78-BD75-470C-8F42-11EAC20FB97D).
+[2026-11-15 10:40:56 +0000] Status=1, isTerminal=NO, Elapsed=00:01.
+	Waiting on BackBoard
+
+[2026-11-15 10:40:56 +0000] Status=2, isTerminal=NO, Elapsed=00:01.
+	Waiting on Data Migration
+		Reason:(null)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 10:40:57 +0000] Status=2, isTerminal=NO, Elapsed=00:02.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:01 seconds
+
+[2026-11-15 10:40:58 +0000] Status=2, isTerminal=NO, Elapsed=00:03.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:02 seconds
+
+[2026-11-15 10:40:59 +0000] Status=2, isTerminal=NO, Elapsed=00:04.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:03 seconds
+
+[2026-11-15 10:41:00 +0000] Status=2, isTerminal=NO, Elapsed=00:05.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:04 seconds
+
+[2026-11-15 10:41:01 +0000] Status=2, isTerminal=NO, Elapsed=00:06.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:05 seconds
+
+[2026-11-15 10:41:02 +0000] Status=2, isTerminal=NO, Elapsed=00:07.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:06 seconds
+
+[2026-11-15 10:41:03 +0000] Status=2, isTerminal=NO, Elapsed=00:08.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:07 seconds
+
+[2026-11-15 10:41:04 +0000] Status=2, isTerminal=NO, Elapsed=00:09.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:08 seconds
+
+[2026-11-15 10:41:05 +0000] Status=2, isTerminal=NO, Elapsed=00:10.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:09 seconds
+
+[2026-11-15 10:41:06 +0000] Status=2, isTerminal=NO, Elapsed=00:11.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:10 seconds
+
+[2026-11-15 10:41:07 +0000] Status=2, isTerminal=NO, Elapsed=00:12.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:11 seconds
+
+[2026-11-15 10:41:08 +0000] Status=2, isTerminal=NO, Elapsed=00:13.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:12 seconds
+
+[2026-11-15 10:41:09 +0000] Status=2, isTerminal=NO, Elapsed=00:14.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:13 seconds
+
+[2026-11-15 10:41:10 +0000] Status=2, isTerminal=NO, Elapsed=00:15.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:14 seconds
+
+[2026-11-15 10:41:11 +0000] Status=2, isTerminal=NO, Elapsed=00:16.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.keyboards.migrator (KeyboardMigrator.migrator)
+		Migration Elapsed:00:15 seconds
+
+[2026-11-15 10:41:12 +0000] Status=4294967295, isTerminal=YES, Elapsed=00:17.
+	Finished
+
+An error was encountered processing the command (domain=NSPOSIXErrorDomain, code=3):
+Simulator device failed to terminate tools.chalkorbit.board672.
+found nothing to terminate
+Underlying error (domain=NSPOSIXErrorDomain, code=3):
+	The request to terminate "tools.chalkorbit.board672" failed. found nothing to terminate
+	found nothing to terminate
+tools.chalkorbit.board672: 49371
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/board.png
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/training.png
+tools.chalkorbit.board672: 49501
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/board-de.png
+tools.chalkorbit.board672: 49555
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/board-es.png
+tools.chalkorbit.board672: 49609
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/board-it.png
+tools.chalkorbit.board672: 49665
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/board-pt-BR.png
+tools.chalkorbit.board672: 49701
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 60940A39-BD66-47AD-A03F-3CE793CF82F0 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/16_sportingbet/02_coach_board/QA/tablet/board-el.png

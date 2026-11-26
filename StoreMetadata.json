@@ -1,0 +1,57 @@
+{
+  "en": {
+    "name": "Soach Board",
+    "subtitle": "Tactics and training plans",
+    "keywords": "tactics board,football coach,training planner,futsal,basketball,drills,team,playbook",
+    "description": "Draw your next move on a football, futsal or basketball court. Move player magnets, draw passing and running arrows, and animate a sequence frame by frame. Save tactics, build seasonal training plans and export every frame to PDF. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again. Home Screen and Lock Screen widgets use your saved plan. Free, with no advertising or purchases."
+  },
+  "de": {
+    "name": "Soach Board",
+    "subtitle": "Taktik und Trainingsplanung",
+    "keywords": "Taktiktafel,Fußball,Trainer,Trainingsplan,Futsal,Basketball,Übungen,Team,Spielzüge",
+    "description": "Zeichne Spielzüge für Fußball, Futsal und Basketball. Verschiebe Figuren, zeichne Pass- und Laufwege und animiere deine Taktik Bild für Bild. Speichere Übungen, plane eine Saison und exportiere alle Bilder als PDF. Öffne eine Datei oder sende jemandem direkt eine Kopie. Änderungen bleiben bis zur nächsten Freigabe auf diesem Gerät. Widgets zeigen deinen lokal gespeicherten Plan. Kostenlos, ohne Werbung und Käufe."
+  },
+  "es": {
+    "name": "Soach Board",
+    "subtitle": "Tácticas y entrenamientos",
+    "keywords": "pizarra táctica,fútbol,entrenador,entrenamiento,fútbol sala,baloncesto,ejercicios,equipo",
+    "description": "Dibuja jugadas de fútbol, fútbol sala y baloncesto. Mueve jugadores, traza pases y carreras y anima la táctica por fotogramas. Guarda ejercicios, planifica una temporada y exporta cada fotograma a PDF. Abre un archivo o envía una copia directamente. Los cambios quedan en este dispositivo hasta que vuelvas a compartirlos. Los widgets muestran tu plan local. Gratis, sin anuncios ni compras."
+  },
+  "it": {
+    "name": "Soach Board",
+    "subtitle": "Tattiche e allenamenti",
+    "keywords": "lavagna tattica,calcio,allenatore,allenamento,calcio a 5,pallacanestro,esercizi,squadra",
+    "description": "Disegna azioni per calcio, calcio a 5 e pallacanestro. Sposta pedine, traccia passaggi e corse e anima la tattica fotogramma per fotogramma. Salva esercizi, pianifica una stagione ed esporta ogni fotogramma in PDF. Apri un file o invia una copia direttamente. Le modifiche restano sul dispositivo fino alla condivisione successiva. I widget mostrano il piano salvato sul dispositivo. Gratis, senza pubblicità o acquisti."
+  },
+  "pt-BR": {
+    "name": "Soach Board",
+    "subtitle": "Táticas e planos de treino",
+    "keywords": "quadro tático,futebol,treinador,plano de treino,futsal,basquete,exercícios,equipe",
+    "description": "Desenhe jogadas de futebol, futsal e basquete. Mova peças, trace passes e corridas e anime a tática quadro a quadro. Salve exercícios, planeje uma temporada e exporte cada quadro em PDF. Abra um arquivo ou envie uma cópia diretamente a alguém. As alterações ficam neste dispositivo até o próximo envio. Widgets mostram seu plano salvo no aparelho. Grátis, sem anúncios ou compras."
+  },
+  "el": {
+    "name": "Soach Board",
+    "subtitle": "Τακτικές και προπονήσεις",
+    "keywords": "πίνακας τακτικής,ποδόσφαιρο,προπονητής,προπόνηση,σάλας,μπάσκετ,ασκήσεις,ομάδα",
+    "description": "Σχεδιάστε κινήσεις για ποδόσφαιρο, σάλας και μπάσκετ. Μετακινήστε παίκτες, σχεδιάστε πάσες και διαδρομές και δείτε την τακτική καρέ καρέ. Αποθηκεύστε ασκήσεις, οργανώστε τη σεζόν και εξαγάγετε κάθε καρέ σε PDF. Άνοιξε ένα αρχείο ή στείλε αντίγραφο απευθείας. Οι αλλαγές μένουν στη συσκευή μέχρι την επόμενη κοινοποίηση. Τα widget δείχνουν το τοπικό πλάνο. Δωρεάν, χωρίς διαφημίσεις ή αγορές."
+  },
+  "review": {
+    "suggestedAgeRating": "4+",
+    "accounts": "Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again.",
+    "purchases": false,
+    "ads": false,
+    "tracking": false,
+    "dataCollection": "No developer collection. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again.",
+    "liveActivity": false,
+    "cloudSchema": {
+      "zone": "ChalkTeam",
+      "recordType": "Tactic",
+      "fields": {
+        "payload": "Bytes",
+        "title": "String"
+      },
+      "publicDatabase": false
+    },
+    "releaseGate": "Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again. No store upload was requested."
+  }
+}

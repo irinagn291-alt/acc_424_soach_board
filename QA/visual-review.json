@@ -1,0 +1,58 @@
+{
+  "reviewedCompleteRuns": {
+    "phone": "Journey-2",
+    "tablet": "Journey-4"
+  },
+  "localizedScreens": {
+    "captured": [
+      "en",
+      "de",
+      "es",
+      "it",
+      "pt-BR",
+      "el"
+    ],
+    "surfaces": [
+      "board",
+      "training"
+    ]
+  },
+  "pdfReview": {
+    "phone": "QA/phone/Coach-Board-53BF426F.pdf",
+    "phonePagesReviewed": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tablet": "QA/tablet/Coach-Board-C0DB820D.pdf",
+    "tabletPagesReviewed": [
+      1,
+      2,
+      3
+    ],
+    "resolved": [
+      "Vertical reflection of field and text",
+      "Upside-down coaching notes"
+    ],
+    "result": "Upright fields, numbers, headings and notes; all existing pages reviewed"
+  },
+  "nativeWidgetGallery": [
+    "systemSmall",
+    "systemMedium",
+    "systemLarge",
+    "accessoryRectangular"
+  ],
+  "resolvedUI": [
+    "Tool button hit areas",
+    "Localized Play sequence",
+    "Clipped decorative toolbar item",
+    "Missing Run symbol",
+    "Library row hit area",
+    "iPad field aspect ratio"
+  ],
+  "remainingVisualScope": [
+    "System widget hosting is outside the completed visual checks"
+  ]
+}
